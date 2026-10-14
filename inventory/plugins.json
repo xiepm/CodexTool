@@ -1,0 +1,184 @@
+[
+  {
+    "id": "dev-6aaa0784d928819199fc24ca304a1c27@created-by-me-remote",
+    "version": "1.0.0",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/created-by-me-remote/dev-6aaa0784d928819199fc24ca304a1c27/1.0.0",
+    "restore": "重新建立 Codex Harness/tunnel 服务和连接，缓存声明不能恢复远程服务"
+  },
+  {
+    "id": "browser@openai-bundled",
+    "version": "26.1007.21434",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-bundled/browser/26.1007.21434",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "code-review@openai-bundled",
+    "version": "26.1007.21434",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-bundled/code-review/26.1007.21434",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "codex-app-tools@openai-bundled",
+    "version": "0.1.6",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-bundled/codex-app-tools/0.1.6",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "computer-use@openai-bundled",
+    "version": "26.1007.21434",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-bundled/computer-use/26.1007.21434",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "unified-computer-use@openai-bundled",
+    "version": "26.1007.21434",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-bundled/unified-computer-use/26.1007.21434",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "visualize@openai-bundled",
+    "version": "1.0.49",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-bundled/visualize/1.0.49",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "github@openai-curated",
+    "version": "11c74d6b",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-curated/github/11c74d6b",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "data-analytics@openai-curated-remote",
+    "version": "1.0.11",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/data-analytics/1.0.11",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "github@openai-curated-remote",
+    "version": "0.1.12-5f7cd798dc99",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/github/0.1.12-5f7cd798dc99",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "gmail@openai-curated-remote",
+    "version": "0.1.10",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/gmail/0.1.10",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "google-calendar@openai-curated-remote",
+    "version": "1.2.7",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/google-calendar/1.2.7",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "google-contacts@openai-curated-remote",
+    "version": "1.0.0",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/google-contacts/1.0.0",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "google-drive@openai-curated-remote",
+    "version": "0.1.20",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/google-drive/0.1.20",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "openai-templates@openai-curated-remote",
+    "version": "0.1.1",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/openai-templates/0.1.1",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "pages@openai-curated-remote",
+    "version": "0.1.23",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/pages/0.1.23",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "plugin-management@openai-curated-remote",
+    "version": "0.1.0",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/plugin-management/0.1.0",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "sites@openai-curated-remote",
+    "version": "1.0.1",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/sites/1.0.1",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "work-pets@openai-curated-remote",
+    "version": "0.1.6",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/work-pets/0.1.6",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "zotero@openai-curated-remote",
+    "version": "0.1.2",
+    "enabled_in_local_config": null,
+    "archive": "archive/plugin-cache/openai-curated-remote/zotero/0.1.2",
+    "restore": "登录相同账号和工作区，从 Plugins 查找/安装并核实账号连接"
+  },
+  {
+    "id": "documents@openai-primary-runtime",
+    "version": "26.1011.11113",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-primary-runtime/documents/26.1011.11113",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "pdf@openai-primary-runtime",
+    "version": "26.1011.11113",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-primary-runtime/pdf/26.1011.11113",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "presentations@openai-primary-runtime",
+    "version": "26.1011.11113",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-primary-runtime/presentations/26.1011.11113",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "spreadsheets@openai-primary-runtime",
+    "version": "26.1011.11113",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-primary-runtime/spreadsheets/26.1011.11113",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "template-creator@openai-primary-runtime",
+    "version": "26.1011.11113",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/openai-primary-runtime/template-creator/26.1011.11113",
+    "restore": "由目标 Codex 安装/更新提供；不要覆盖版本化运行时"
+  },
+  {
+    "id": "scientific-illustrator@scientific-illustrator-tools",
+    "version": "1.5.4",
+    "enabled_in_local_config": true,
+    "archive": "archive/plugin-cache/scientific-illustrator-tools/scientific-illustrator/1.5.4",
+    "restore": "已附本地市场源码；注册 marketplace 后安装；另装 Node、draw.io/PowerPoint"
+  }
+]
