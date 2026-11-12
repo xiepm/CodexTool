@@ -1,0 +1,4243 @@
+[
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "0-autoresearch-skill",
+    "name": "autoresearch",
+    "dest": "0-autoresearch-skill",
+    "sha256": "b7ca0d7a6e905da85a8b494d3fe398ac78eaa278854f67b50a34f2b37a9a2b78",
+    "installed_sha256": "b7ca0d7a6e905da85a8b494d3fe398ac78eaa278854f67b50a34f2b37a9a2b78",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "01-model-architecture/litgpt",
+    "name": "implementing-llms-litgpt",
+    "dest": "litgpt",
+    "sha256": "523f0b786c915af20a7980857e174b838e4440afe851bd16917ef69f8042adb2",
+    "installed_sha256": "523f0b786c915af20a7980857e174b838e4440afe851bd16917ef69f8042adb2",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "01-model-architecture/mamba",
+    "name": "mamba-architecture",
+    "dest": "mamba",
+    "sha256": "51ddf99c12a472a78c258bddf7e66e72cf45d9e04969f3300cc8d68aaaef9b0e",
+    "installed_sha256": "51ddf99c12a472a78c258bddf7e66e72cf45d9e04969f3300cc8d68aaaef9b0e",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "01-model-architecture/nanogpt",
+    "name": "nanogpt",
+    "dest": "nanogpt",
+    "sha256": "8893d8dd5b7ba4ae3219497e26d33fc9565e6bbf0d6aa4d6c1c3ee05003468c3",
+    "installed_sha256": "8893d8dd5b7ba4ae3219497e26d33fc9565e6bbf0d6aa4d6c1c3ee05003468c3",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "01-model-architecture/rwkv",
+    "name": "rwkv-architecture",
+    "dest": "rwkv",
+    "sha256": "17fc974b3f3b67b1648c5cb93b3bdc557fbd64df8463d8fbc8f71bdf88575a7c",
+    "installed_sha256": "17fc974b3f3b67b1648c5cb93b3bdc557fbd64df8463d8fbc8f71bdf88575a7c",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "01-model-architecture/torchtitan",
+    "name": "distributed-llm-pretraining-torchtitan",
+    "dest": "torchtitan",
+    "sha256": "530b85ddadfc69e2cfd3bbdd7cdb03c89f7ddd00ba0e84fed8ac43e98a25a4d8",
+    "installed_sha256": "530b85ddadfc69e2cfd3bbdd7cdb03c89f7ddd00ba0e84fed8ac43e98a25a4d8",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "02-tokenization/huggingface-tokenizers",
+    "name": "huggingface-tokenizers",
+    "dest": "huggingface-tokenizers",
+    "sha256": "d2ff3f9eed2cb8e15cb98e8e2398ca359325a32fd5d16ebfe0d115d7624583af",
+    "installed_sha256": "d2ff3f9eed2cb8e15cb98e8e2398ca359325a32fd5d16ebfe0d115d7624583af",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "02-tokenization/sentencepiece",
+    "name": "sentencepiece",
+    "dest": "sentencepiece",
+    "sha256": "47b1d10f419a51a400010bcd80d99a8bdb5c4510fc3e57fe9bc9be7efa6a48f8",
+    "installed_sha256": "47b1d10f419a51a400010bcd80d99a8bdb5c4510fc3e57fe9bc9be7efa6a48f8",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "03-fine-tuning/axolotl",
+    "name": "axolotl",
+    "dest": "axolotl",
+    "sha256": "9273d534cd6a06612b18418f2cd98f63d1ac9bb780eda511a91800dee48f1dda",
+    "installed_sha256": "9273d534cd6a06612b18418f2cd98f63d1ac9bb780eda511a91800dee48f1dda",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "03-fine-tuning/llama-factory",
+    "name": "llama-factory",
+    "dest": "llama-factory",
+    "sha256": "6adfd1babfbfe2f85e0fcbde518f24a804ebe06afeb8682ce1df395284d6f5cb",
+    "installed_sha256": "6adfd1babfbfe2f85e0fcbde518f24a804ebe06afeb8682ce1df395284d6f5cb",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "03-fine-tuning/peft",
+    "name": "peft-fine-tuning",
+    "dest": "peft",
+    "sha256": "acdb318f94624517c8cdb3c925c7a2e8b34c65e8ca02b301777c51eea9f0f73c",
+    "installed_sha256": "acdb318f94624517c8cdb3c925c7a2e8b34c65e8ca02b301777c51eea9f0f73c",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "03-fine-tuning/unsloth",
+    "name": "unsloth",
+    "dest": "unsloth",
+    "sha256": "ac7f1d1f87d08d7f8713f07c1f6522268b814acea850f97bc986e00f8b461bc3",
+    "installed_sha256": "ac7f1d1f87d08d7f8713f07c1f6522268b814acea850f97bc986e00f8b461bc3",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "04-mechanistic-interpretability/nnsight",
+    "name": "nnsight-remote-interpretability",
+    "dest": "nnsight",
+    "sha256": "f79dc9daf99c4ffbcb82072b4f162c296e4365dbb2fe6985e77be215ba0c814c",
+    "installed_sha256": "f79dc9daf99c4ffbcb82072b4f162c296e4365dbb2fe6985e77be215ba0c814c",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "04-mechanistic-interpretability/pyvene",
+    "name": "pyvene-interventions",
+    "dest": "pyvene",
+    "sha256": "cc26be84bdf23355f63cf103847a13618122157d17448be6ea16f94f3338f4d1",
+    "installed_sha256": "cc26be84bdf23355f63cf103847a13618122157d17448be6ea16f94f3338f4d1",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "04-mechanistic-interpretability/saelens",
+    "name": "sparse-autoencoder-training",
+    "dest": "saelens",
+    "sha256": "3af1fa0e513a96c953f4fbd28b1a6cd764fa9c27e512c6f0cfd2b80c2a1706ae",
+    "installed_sha256": "3af1fa0e513a96c953f4fbd28b1a6cd764fa9c27e512c6f0cfd2b80c2a1706ae",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "04-mechanistic-interpretability/transformer-lens",
+    "name": "transformer-lens-interpretability",
+    "dest": "transformer-lens",
+    "sha256": "9ac5a790a59f46e430a9015a1e8c52338666f3426e36085c4ef38665b10b4e24",
+    "installed_sha256": "9ac5a790a59f46e430a9015a1e8c52338666f3426e36085c4ef38665b10b4e24",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "05-data-processing/nemo-curator",
+    "name": "nemo-curator",
+    "dest": "nemo-curator",
+    "sha256": "d8586e21ecd4df1a32371f8d86746f8fbd88358f5dc8957e5dd91a473d2ab484",
+    "installed_sha256": "d8586e21ecd4df1a32371f8d86746f8fbd88358f5dc8957e5dd91a473d2ab484",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "05-data-processing/ray-data",
+    "name": "ray-data",
+    "dest": "ray-data",
+    "sha256": "bcc73b3341dca18c59cad092cb6dedb7ac0bf0bde80467a039921ac0c02256c3",
+    "installed_sha256": "bcc73b3341dca18c59cad092cb6dedb7ac0bf0bde80467a039921ac0c02256c3",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "06-post-training/grpo-rl-training",
+    "name": "grpo-rl-training",
+    "dest": "grpo-rl-training",
+    "sha256": "c9b771c280840f12d0e98749250c35df4a83a21f95465c41e8ae13f0229ecb40",
+    "installed_sha256": "c9b771c280840f12d0e98749250c35df4a83a21f95465c41e8ae13f0229ecb40",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "06-post-training/miles",
+    "name": "miles-rl-training",
+    "dest": "miles",
+    "sha256": "cbf610faa37bfb97fc06a7d6a4c748867c29e4b4c79f1ae109662af5245a106e",
+    "installed_sha256": "cbf610faa37bfb97fc06a7d6a4c748867c29e4b4c79f1ae109662af5245a106e",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "06-post-training/openrlhf",
+    "name": "openrlhf-training",
+    "dest": "openrlhf",
+    "sha256": "eb9da6a1a81c492fb143cde0714f355ab042fcfe967b31bdb1fc78a5cb0e761f",
+    "installed_sha256": "eb9da6a1a81c492fb143cde0714f355ab042fcfe967b31bdb1fc78a5cb0e761f",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "06-post-training/simpo",
+    "name": "simpo-training",
+    "dest": "simpo",
+    "sha256": "2a74bd2378857c520066fbe84fc0c6c556d0fa0b8c4afde1eab1c0abfb51ed8a",
+    "installed_sha256": "2a74bd2378857c520066fbe84fc0c6c556d0fa0b8c4afde1eab1c0abfb51ed8a",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "06-post-training/slime",
+    "name": "slime-rl-training",
+    "dest": "slime",
+    "sha256": "117c8fd2d57d878e45c698f9f0485326ed4630aeaec761aa1222d7a36458cc07",
+    "installed_sha256": "117c8fd2d57d878e45c698f9f0485326ed4630aeaec761aa1222d7a36458cc07",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "06-post-training/torchforge",
+    "name": "torchforge-rl-training",
+    "dest": "torchforge",
+    "sha256": "809da22c47d5caadbcca9d3db7e82e227c174dbaa98f4a01cf2a678ffaffcbf0",
+    "installed_sha256": "809da22c47d5caadbcca9d3db7e82e227c174dbaa98f4a01cf2a678ffaffcbf0",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "06-post-training/trl-fine-tuning",
+    "name": "fine-tuning-with-trl",
+    "dest": "trl-fine-tuning",
+    "sha256": "d68f78ad741627ce7dcdf2ce78c73c8cf31d23db7d89555e0bdd0cd35c413811",
+    "installed_sha256": "d68f78ad741627ce7dcdf2ce78c73c8cf31d23db7d89555e0bdd0cd35c413811",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "06-post-training/verl",
+    "name": "verl-rl-training",
+    "dest": "verl",
+    "sha256": "1167e2b2994c9b0780edc44d5bc3a3eef69dc816af08af8f28ef9c19163d1285",
+    "installed_sha256": "1167e2b2994c9b0780edc44d5bc3a3eef69dc816af08af8f28ef9c19163d1285",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "07-safety-alignment/constitutional-ai",
+    "name": "constitutional-ai",
+    "dest": "constitutional-ai",
+    "sha256": "186267074ebdae7d3f9a5c8fb1505536c31bbe7ffba5fd18a052f8258d2005c0",
+    "installed_sha256": "186267074ebdae7d3f9a5c8fb1505536c31bbe7ffba5fd18a052f8258d2005c0",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "07-safety-alignment/llamaguard",
+    "name": "llamaguard",
+    "dest": "llamaguard",
+    "sha256": "80c5afb39cb153d82e08dca44fbd3ea75a5e950b8bef65c2c1af8bbbe9ef3992",
+    "installed_sha256": "80c5afb39cb153d82e08dca44fbd3ea75a5e950b8bef65c2c1af8bbbe9ef3992",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "07-safety-alignment/nemo-guardrails",
+    "name": "nemo-guardrails",
+    "dest": "nemo-guardrails",
+    "sha256": "d0d91892eaba80cf829ef6bb1b37f3b5fa8cc31ba1fa89d162ab380b90ca2762",
+    "installed_sha256": "d0d91892eaba80cf829ef6bb1b37f3b5fa8cc31ba1fa89d162ab380b90ca2762",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "07-safety-alignment/prompt-guard",
+    "name": "prompt-guard",
+    "dest": "prompt-guard",
+    "sha256": "0291e30b5549f0398f4bbe72f8918f16eced4c75d45dfd7c87648f72dc97ecce",
+    "installed_sha256": "0291e30b5549f0398f4bbe72f8918f16eced4c75d45dfd7c87648f72dc97ecce",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "08-distributed-training/accelerate",
+    "name": "huggingface-accelerate",
+    "dest": "accelerate",
+    "sha256": "e94cea7a174f395df02d935065fe05db8ecb637c52e443b6380c703963758d7a",
+    "installed_sha256": "e94cea7a174f395df02d935065fe05db8ecb637c52e443b6380c703963758d7a",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "08-distributed-training/deepspeed",
+    "name": "deepspeed",
+    "dest": "deepspeed",
+    "sha256": "8c2221b797e650a933800cfa45282a70caca20aaa85cbcece6e16acf1020dc39",
+    "installed_sha256": "8c2221b797e650a933800cfa45282a70caca20aaa85cbcece6e16acf1020dc39",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "08-distributed-training/megatron-core",
+    "name": "training-llms-megatron",
+    "dest": "megatron-core",
+    "sha256": "6e69257341b9ee01b22a46905e93f6fe2339b9f8147c7f77da46be7b366b6556",
+    "installed_sha256": "6e69257341b9ee01b22a46905e93f6fe2339b9f8147c7f77da46be7b366b6556",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "08-distributed-training/pytorch-fsdp2",
+    "name": "pytorch-fsdp2",
+    "dest": "pytorch-fsdp2",
+    "sha256": "b540043bd17d741840843df2f76d556d41be29c82a2acd85565ce2b1ce088a50",
+    "installed_sha256": "b540043bd17d741840843df2f76d556d41be29c82a2acd85565ce2b1ce088a50",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "08-distributed-training/pytorch-lightning",
+    "name": "pytorch-lightning",
+    "dest": "pytorch-lightning",
+    "sha256": "7788f93b6324f8d62d0d579a572164d303704b59fc7fefe12497afb75856c453",
+    "installed_sha256": "7788f93b6324f8d62d0d579a572164d303704b59fc7fefe12497afb75856c453",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "08-distributed-training/ray-train",
+    "name": "ray-train",
+    "dest": "ray-train",
+    "sha256": "7f88c141557e3f0cc5b456571d1ae99bef4161a9c1765bc725847cfbd0fb1170",
+    "installed_sha256": "7f88c141557e3f0cc5b456571d1ae99bef4161a9c1765bc725847cfbd0fb1170",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "09-infrastructure/lambda-labs",
+    "name": "lambda-labs-gpu-cloud",
+    "dest": "lambda-labs",
+    "sha256": "9d1dc3fcb83bf0de14717e58c13f49989b2bc307b12febcf040ef9d28fedc0a7",
+    "installed_sha256": "9d1dc3fcb83bf0de14717e58c13f49989b2bc307b12febcf040ef9d28fedc0a7",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "09-infrastructure/modal",
+    "name": "modal-serverless-gpu",
+    "dest": "modal",
+    "sha256": "219757503f84684534b3efe5616822ad17e6dc5c6cad127e6b46033a429d38ba",
+    "installed_sha256": "219757503f84684534b3efe5616822ad17e6dc5c6cad127e6b46033a429d38ba",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "09-infrastructure/skypilot",
+    "name": "skypilot-multi-cloud-orchestration",
+    "dest": "skypilot",
+    "sha256": "de1be4556d8a8f7929003ca4b672e5fbb755588b1e95068973896b63d3034965",
+    "installed_sha256": "de1be4556d8a8f7929003ca4b672e5fbb755588b1e95068973896b63d3034965",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "10-optimization/awq",
+    "name": "awq-quantization",
+    "dest": "awq",
+    "sha256": "9a875e53113c11b00ab417fc393eb504f8be97d50c2e6901c762b991388bf717",
+    "installed_sha256": "9a875e53113c11b00ab417fc393eb504f8be97d50c2e6901c762b991388bf717",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "10-optimization/bitsandbytes",
+    "name": "quantizing-models-bitsandbytes",
+    "dest": "bitsandbytes",
+    "sha256": "0a68e96c760b0ba561437328211a8405b4db422e9bad92415219abf91f87f849",
+    "installed_sha256": "0a68e96c760b0ba561437328211a8405b4db422e9bad92415219abf91f87f849",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "10-optimization/flash-attention",
+    "name": "optimizing-attention-flash",
+    "dest": "flash-attention",
+    "sha256": "e0c1da83766332e0f3db4bcca954c3a70be399632758dcec2680aa82e236438d",
+    "installed_sha256": "e0c1da83766332e0f3db4bcca954c3a70be399632758dcec2680aa82e236438d",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "10-optimization/gguf",
+    "name": "gguf-quantization",
+    "dest": "gguf",
+    "sha256": "11016e03b2b53c9a981f1ef7df96b078daf9bc929126ccf36377b86bb7025224",
+    "installed_sha256": "11016e03b2b53c9a981f1ef7df96b078daf9bc929126ccf36377b86bb7025224",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "10-optimization/gptq",
+    "name": "gptq",
+    "dest": "gptq",
+    "sha256": "ce19de416afa03a0e6a764c9cb8b8ba9a0b94812b9de1ad5a0c2cb2932009f28",
+    "installed_sha256": "ce19de416afa03a0e6a764c9cb8b8ba9a0b94812b9de1ad5a0c2cb2932009f28",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "10-optimization/hqq",
+    "name": "hqq-quantization",
+    "dest": "hqq",
+    "sha256": "4feba64227f6db505044663cd5432bf9c0599c5c8984d94d3b2d1598711a1f80",
+    "installed_sha256": "4feba64227f6db505044663cd5432bf9c0599c5c8984d94d3b2d1598711a1f80",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "10-optimization/ml-training-recipes",
+    "name": "ml-training-recipes",
+    "dest": "ml-training-recipes",
+    "sha256": "1cb661b0d3bac57ffed65075707a9079ac23123a5a597700e85c05e03e166a57",
+    "installed_sha256": "1cb661b0d3bac57ffed65075707a9079ac23123a5a597700e85c05e03e166a57",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "11-evaluation/bigcode-evaluation-harness",
+    "name": "evaluating-code-models",
+    "dest": "bigcode-evaluation-harness",
+    "sha256": "7c46e8eb3ca8d4f51769162d16d87a7dff5ec0c4609131fd3c62fcb463522874",
+    "installed_sha256": "7c46e8eb3ca8d4f51769162d16d87a7dff5ec0c4609131fd3c62fcb463522874",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "11-evaluation/lm-evaluation-harness",
+    "name": "evaluating-llms-harness",
+    "dest": "lm-evaluation-harness",
+    "sha256": "891b77bc09118393f9bd1235404ee3f0cf412f56e57dc4b454e2fbd8fd507bc3",
+    "installed_sha256": "891b77bc09118393f9bd1235404ee3f0cf412f56e57dc4b454e2fbd8fd507bc3",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "11-evaluation/nemo-evaluator",
+    "name": "nemo-evaluator-sdk",
+    "dest": "nemo-evaluator",
+    "sha256": "97bc3483974c2b930acf3f46e21c865e1b27e92359e19bdb465515d9e86ff10f",
+    "installed_sha256": "97bc3483974c2b930acf3f46e21c865e1b27e92359e19bdb465515d9e86ff10f",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "12-inference-serving/llama-cpp",
+    "name": "llama-cpp",
+    "dest": "llama-cpp",
+    "sha256": "d74caa45483f5b3c6bd6267e39b444627989ff90fdb84b6c2e7c3da4ddf143ef",
+    "installed_sha256": "d74caa45483f5b3c6bd6267e39b444627989ff90fdb84b6c2e7c3da4ddf143ef",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "12-inference-serving/sglang",
+    "name": "sglang",
+    "dest": "sglang",
+    "sha256": "05e664a43bb82df2363ef22ceba81a41394a2b819c3367b2413f661485085c8f",
+    "installed_sha256": "05e664a43bb82df2363ef22ceba81a41394a2b819c3367b2413f661485085c8f",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "12-inference-serving/tensorrt-llm",
+    "name": "tensorrt-llm",
+    "dest": "tensorrt-llm",
+    "sha256": "13f8e09b3e05b2167919011dfa8a44e067c7e0563a1e7dc01c26752cf85da11f",
+    "installed_sha256": "13f8e09b3e05b2167919011dfa8a44e067c7e0563a1e7dc01c26752cf85da11f",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "12-inference-serving/vllm",
+    "name": "serving-llms-vllm",
+    "dest": "vllm",
+    "sha256": "57eaf97e982fe758b6fd0ef2281b6961940e4a1c8258f303b0ce02d55d0636c6",
+    "installed_sha256": "57eaf97e982fe758b6fd0ef2281b6961940e4a1c8258f303b0ce02d55d0636c6",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "13-mlops/mlflow",
+    "name": "mlflow",
+    "dest": "mlflow",
+    "sha256": "36d2581f7d8beb8b27f66bbef5c94df7e9604b917c3aa15e4183a48a2b1f3f96",
+    "installed_sha256": "36d2581f7d8beb8b27f66bbef5c94df7e9604b917c3aa15e4183a48a2b1f3f96",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "13-mlops/swanlab",
+    "name": "experiment-tracking-swanlab",
+    "dest": "swanlab",
+    "sha256": "14b0f74e6383e4e43cc78785706b43f0343801ba96c14b56284142203be48eff",
+    "installed_sha256": "14b0f74e6383e4e43cc78785706b43f0343801ba96c14b56284142203be48eff",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "13-mlops/tensorboard",
+    "name": "tensorboard",
+    "dest": "tensorboard",
+    "sha256": "717c4b05f88bbc888d54cc51fa390ae225d687b3b86fb616e36cc7fc26108020",
+    "installed_sha256": "717c4b05f88bbc888d54cc51fa390ae225d687b3b86fb616e36cc7fc26108020",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "13-mlops/weights-and-biases",
+    "name": "weights-and-biases",
+    "dest": "weights-and-biases",
+    "sha256": "3cd5daa7cad70d97c96b2d6fdf8d0fc1ed8a97b1750c4e013e2405389baed3b6",
+    "installed_sha256": "3cd5daa7cad70d97c96b2d6fdf8d0fc1ed8a97b1750c4e013e2405389baed3b6",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "14-agents/a-evolve",
+    "name": "evolving-ai-agents",
+    "dest": "a-evolve",
+    "sha256": "6477f6efbbf3541ce3dfccf6665f5cdf6f241e47dcc3b32787e3e49b90223dbc",
+    "installed_sha256": "6477f6efbbf3541ce3dfccf6665f5cdf6f241e47dcc3b32787e3e49b90223dbc",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "14-agents/autogpt",
+    "name": "autogpt-agents",
+    "dest": "autogpt",
+    "sha256": "4b16c070da9966e3e71a8f5324d7b1b2d4ddd68a3df8b27305b1a19b841f62b3",
+    "installed_sha256": "4b16c070da9966e3e71a8f5324d7b1b2d4ddd68a3df8b27305b1a19b841f62b3",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "14-agents/crewai",
+    "name": "crewai-multi-agent",
+    "dest": "crewai",
+    "sha256": "8760f968af1118e3dde5bc8443613be5ef7046a5639d26079d596fcf6d2483ff",
+    "installed_sha256": "8760f968af1118e3dde5bc8443613be5ef7046a5639d26079d596fcf6d2483ff",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "14-agents/langchain",
+    "name": "langchain",
+    "dest": "langchain",
+    "sha256": "d47635059ac1a1a369ee6169f68f1d02e95ca201f2394a902fe66a30b1e35e65",
+    "installed_sha256": "d47635059ac1a1a369ee6169f68f1d02e95ca201f2394a902fe66a30b1e35e65",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "14-agents/llamaindex",
+    "name": "llamaindex",
+    "dest": "llamaindex",
+    "sha256": "a603d319831beb1e46efd9299532b2462ee0d0cf01d7aa8928bd21763a3d9760",
+    "installed_sha256": "a603d319831beb1e46efd9299532b2462ee0d0cf01d7aa8928bd21763a3d9760",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "15-rag/chroma",
+    "name": "chroma",
+    "dest": "chroma",
+    "sha256": "834733e201d4f7d6c20089c93d13c945d7a62b6581d55631546a5ad74b9ec164",
+    "installed_sha256": "834733e201d4f7d6c20089c93d13c945d7a62b6581d55631546a5ad74b9ec164",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "15-rag/faiss",
+    "name": "faiss",
+    "dest": "faiss",
+    "sha256": "79a494b9212c73810d53527800c69f80acd6aa1907fca8c614c69583cac76e89",
+    "installed_sha256": "79a494b9212c73810d53527800c69f80acd6aa1907fca8c614c69583cac76e89",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "15-rag/pinecone",
+    "name": "pinecone",
+    "dest": "pinecone",
+    "sha256": "69b0566e8d749acdad2a805ed6980947e5458c96b41bd405e520f2006ff0e7fb",
+    "installed_sha256": "69b0566e8d749acdad2a805ed6980947e5458c96b41bd405e520f2006ff0e7fb",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "15-rag/qdrant",
+    "name": "qdrant-vector-search",
+    "dest": "qdrant",
+    "sha256": "3a45489baf49c375883694ec78d6a9b283533a352e8d47cf630332faff83a231",
+    "installed_sha256": "3a45489baf49c375883694ec78d6a9b283533a352e8d47cf630332faff83a231",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "15-rag/sentence-transformers",
+    "name": "sentence-transformers",
+    "dest": "sentence-transformers",
+    "sha256": "fca19457be4e78f0e3689284d4fbde649ddf9af0d3bba52d2ac1fb470a4c1bd8",
+    "installed_sha256": "fca19457be4e78f0e3689284d4fbde649ddf9af0d3bba52d2ac1fb470a4c1bd8",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "16-prompt-engineering/dspy",
+    "name": "dspy",
+    "dest": "dspy",
+    "sha256": "cd01cee93a2228c199c23e77047e4444b0a6eeddd12dcf14104ca2a5de3fa8e2",
+    "installed_sha256": "cd01cee93a2228c199c23e77047e4444b0a6eeddd12dcf14104ca2a5de3fa8e2",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "16-prompt-engineering/guidance",
+    "name": "guidance",
+    "dest": "guidance",
+    "sha256": "2c7028001bf36a8a6bc1020d646a1fbad29c93f92f7706c437bde858e9616c71",
+    "installed_sha256": "2c7028001bf36a8a6bc1020d646a1fbad29c93f92f7706c437bde858e9616c71",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "16-prompt-engineering/instructor",
+    "name": "instructor",
+    "dest": "instructor",
+    "sha256": "7be950beb848b05aa4f41e61cfe27b162cad4a4d029d0abe13401aa743bab794",
+    "installed_sha256": "7be950beb848b05aa4f41e61cfe27b162cad4a4d029d0abe13401aa743bab794",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "16-prompt-engineering/outlines",
+    "name": "outlines",
+    "dest": "outlines",
+    "sha256": "1a797a1bb4d7fae753e4fbf1895beb36f63b8e75c7fba50e940cd1ef1a372574",
+    "installed_sha256": "1a797a1bb4d7fae753e4fbf1895beb36f63b8e75c7fba50e940cd1ef1a372574",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "17-observability/langsmith",
+    "name": "langsmith-observability",
+    "dest": "langsmith",
+    "sha256": "3611688a297b95bd8695cdaa9e9f12db4c7cda6c94a4ae82e55f99fa6cbf7f53",
+    "installed_sha256": "3611688a297b95bd8695cdaa9e9f12db4c7cda6c94a4ae82e55f99fa6cbf7f53",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "17-observability/phoenix",
+    "name": "phoenix-observability",
+    "dest": "phoenix",
+    "sha256": "111bd54f145ca57360f7e6f08f95202e937ac134e3dbf486a51cbaa008546e2b",
+    "installed_sha256": "111bd54f145ca57360f7e6f08f95202e937ac134e3dbf486a51cbaa008546e2b",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/audiocraft",
+    "name": "audiocraft-audio-generation",
+    "dest": "audiocraft",
+    "sha256": "3f9efaebd7331bea86022a101329074c6eab8af2d33591e691c565fcba641a5f",
+    "installed_sha256": "3f9efaebd7331bea86022a101329074c6eab8af2d33591e691c565fcba641a5f",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/blip-2",
+    "name": "blip-2-vision-language",
+    "dest": "blip-2",
+    "sha256": "38227abdcb742add1284ba117881e899c020b7ebb5c39b5202a97d60c3ad8d3e",
+    "installed_sha256": "38227abdcb742add1284ba117881e899c020b7ebb5c39b5202a97d60c3ad8d3e",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/clip",
+    "name": "clip",
+    "dest": "clip",
+    "sha256": "9fcacf1c041d71ef1e61c7cac2bb7a2c42c3d19d6c2a0fc2e5f5a3c9641b7a3e",
+    "installed_sha256": "9fcacf1c041d71ef1e61c7cac2bb7a2c42c3d19d6c2a0fc2e5f5a3c9641b7a3e",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/cosmos-policy",
+    "name": "evaluating-cosmos-policy",
+    "dest": "cosmos-policy",
+    "sha256": "31d6b4701fae46b0b9e9b281378eefbe0f4c37b5973dae56ee25a3b67f63d0b6",
+    "installed_sha256": "31d6b4701fae46b0b9e9b281378eefbe0f4c37b5973dae56ee25a3b67f63d0b6",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/llava",
+    "name": "llava",
+    "dest": "llava",
+    "sha256": "e2c915ece2f3e50ea110320b7a364dd36361d3010e102e800416dfa3b4299745",
+    "installed_sha256": "e2c915ece2f3e50ea110320b7a364dd36361d3010e102e800416dfa3b4299745",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/openpi",
+    "name": "fine-tuning-serving-openpi",
+    "dest": "openpi",
+    "sha256": "60af709a253bd745330e43067b22667b932a393e65a3cde6660a25d0ffbe4742",
+    "installed_sha256": "60af709a253bd745330e43067b22667b932a393e65a3cde6660a25d0ffbe4742",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/openvla-oft",
+    "name": "fine-tuning-openvla-oft",
+    "dest": "openvla-oft",
+    "sha256": "07492556c7479f18d353c80a4f92450fbe301811e664fc45d0070fcdd9587c9e",
+    "installed_sha256": "07492556c7479f18d353c80a4f92450fbe301811e664fc45d0070fcdd9587c9e",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/segment-anything",
+    "name": "segment-anything-model",
+    "dest": "segment-anything",
+    "sha256": "6ac5c2f96cf7d0ae5f787164678701266930129aa06cc21818f20f77dacb6a71",
+    "installed_sha256": "6ac5c2f96cf7d0ae5f787164678701266930129aa06cc21818f20f77dacb6a71",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/stable-diffusion",
+    "name": "stable-diffusion-image-generation",
+    "dest": "stable-diffusion",
+    "sha256": "816dce0d04b2e2ddc1510a5aaf3e545778f4c59f7329af689dc9941bbbebca37",
+    "installed_sha256": "816dce0d04b2e2ddc1510a5aaf3e545778f4c59f7329af689dc9941bbbebca37",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "18-multimodal/whisper",
+    "name": "whisper",
+    "dest": "whisper",
+    "sha256": "acce14621ec8060db480fade27896a1fba0c99ba037c07684b876cc31027276c",
+    "installed_sha256": "acce14621ec8060db480fade27896a1fba0c99ba037c07684b876cc31027276c",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "19-emerging-techniques/knowledge-distillation",
+    "name": "knowledge-distillation",
+    "dest": "knowledge-distillation",
+    "sha256": "bc27086dc02840cebef4db34db4b8406b37ff349d6e2a52848646c8daf24ff3e",
+    "installed_sha256": "bc27086dc02840cebef4db34db4b8406b37ff349d6e2a52848646c8daf24ff3e",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "19-emerging-techniques/long-context",
+    "name": "long-context",
+    "dest": "long-context",
+    "sha256": "6426eb21a38b8a314078292b8172d889b7f2b1a226901fcda78ac4d28a98a5e7",
+    "installed_sha256": "6426eb21a38b8a314078292b8172d889b7f2b1a226901fcda78ac4d28a98a5e7",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "19-emerging-techniques/model-merging",
+    "name": "model-merging",
+    "dest": "model-merging",
+    "sha256": "dfbcc6d6dfef57489ac69cb6f3a858783f16dff2ecfc72eb2fac168fd2ecc87d",
+    "installed_sha256": "dfbcc6d6dfef57489ac69cb6f3a858783f16dff2ecfc72eb2fac168fd2ecc87d",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "19-emerging-techniques/model-pruning",
+    "name": "model-pruning",
+    "dest": "model-pruning",
+    "sha256": "aca913d834bc1e3d39bbfb75d0658d5a1b9acabf6511744719c5bab91bf306a8",
+    "installed_sha256": "aca913d834bc1e3d39bbfb75d0658d5a1b9acabf6511744719c5bab91bf306a8",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "19-emerging-techniques/moe-training",
+    "name": "moe-training",
+    "dest": "moe-training",
+    "sha256": "f13f184fe031c84700d72c15dd90161a96f3b48ab6b50b250e6b86cfc4c87354",
+    "installed_sha256": "f13f184fe031c84700d72c15dd90161a96f3b48ab6b50b250e6b86cfc4c87354",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "19-emerging-techniques/speculative-decoding",
+    "name": "speculative-decoding",
+    "dest": "speculative-decoding",
+    "sha256": "d818b841ffe3e338569ab7caa0d54516f51c649e52fd1af2d5de5d0435b39f99",
+    "installed_sha256": "d818b841ffe3e338569ab7caa0d54516f51c649e52fd1af2d5de5d0435b39f99",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "20-ml-paper-writing/academic-plotting",
+    "name": "academic-plotting",
+    "dest": "academic-plotting",
+    "sha256": "6613653d8109dcae36596b37d7414d5ae394a18f81543365222286d04485fd83",
+    "installed_sha256": "6613653d8109dcae36596b37d7414d5ae394a18f81543365222286d04485fd83",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "20-ml-paper-writing/ml-paper-writing",
+    "name": "ml-paper-writing",
+    "dest": "ml-paper-writing",
+    "sha256": "96733e6d758642d792ed15b7c08eb90548d4775099368cd72a8312127f2fe911",
+    "installed_sha256": "96733e6d758642d792ed15b7c08eb90548d4775099368cd72a8312127f2fe911",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "20-ml-paper-writing/presenting-conference-talks",
+    "name": "presenting-conference-talks",
+    "dest": "presenting-conference-talks",
+    "sha256": "5fb6b8f9e5b7690dcb0d783ff1e07c6d3f6b950b8f1238e0672e1f3c53bad57f",
+    "installed_sha256": "5fb6b8f9e5b7690dcb0d783ff1e07c6d3f6b950b8f1238e0672e1f3c53bad57f",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "20-ml-paper-writing/systems-paper-writing",
+    "name": "systems-paper-writing",
+    "dest": "systems-paper-writing",
+    "sha256": "ee31b50b25192efcfcbe3252d7e15d88ec27bbd94817640b0357090f94c0e297",
+    "installed_sha256": "ee31b50b25192efcfcbe3252d7e15d88ec27bbd94817640b0357090f94c0e297",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "21-research-ideation/brainstorming-research-ideas",
+    "name": "brainstorming-research-ideas",
+    "dest": "brainstorming-research-ideas",
+    "sha256": "8422a1a6dc0a88d05f02b9fbe0f8c2ae06a77024856d18125efa13d19d855d46",
+    "installed_sha256": "8422a1a6dc0a88d05f02b9fbe0f8c2ae06a77024856d18125efa13d19d855d46",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "21-research-ideation/creative-thinking-for-research",
+    "name": "creative-thinking-for-research",
+    "dest": "creative-thinking-for-research",
+    "sha256": "ec111f9236d7f9d72c895cebbf0f534ac93f4249172607559ad4bf92aefc5310",
+    "installed_sha256": "ec111f9236d7f9d72c895cebbf0f534ac93f4249172607559ad4bf92aefc5310",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "22-agent-native-research-artifact/compiler",
+    "name": "ara-compiler",
+    "dest": "compiler",
+    "sha256": "747c2f17125ce136e8f75baf8803eb3b21ccc01246498a7f0bc4c01ec6d01d9a",
+    "installed_sha256": "747c2f17125ce136e8f75baf8803eb3b21ccc01246498a7f0bc4c01ec6d01d9a",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "22-agent-native-research-artifact/research-manager",
+    "name": "ara-research-manager",
+    "dest": "research-manager",
+    "sha256": "f78da7627ac09a4be398ea4363fc7b8753b2dcb22bc961c5059395e33ef3ef2c",
+    "installed_sha256": "f78da7627ac09a4be398ea4363fc7b8753b2dcb22bc961c5059395e33ef3ef2c",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "path": "22-agent-native-research-artifact/rigor-reviewer",
+    "name": "ara-rigor-reviewer",
+    "dest": "rigor-reviewer",
+    "sha256": "5a8169a5d069caf36a30e0106e523503ffba685215c3cd0067a72aa64a7e2dbb",
+    "installed_sha256": "5a8169a5d069caf36a30e0106e523503ffba685215c3cd0067a72aa64a7e2dbb",
+    "source_commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+    "source_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/ablation-planner",
+    "name": "ablation-planner",
+    "dest": "ablation-planner",
+    "sha256": "8383bc55d53adb29a36e07cc7da560337ddb32140e268fe737d4c36f94110e7b",
+    "installed_sha256": "8383bc55d53adb29a36e07cc7da560337ddb32140e268fe737d4c36f94110e7b",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/alphaxiv",
+    "name": "alphaxiv",
+    "dest": "alphaxiv",
+    "sha256": "65d74ca93c42a7b16e7446b41b7eb133d46fdfa5b65d4a3d8f0327857039db3a",
+    "installed_sha256": "65d74ca93c42a7b16e7446b41b7eb133d46fdfa5b65d4a3d8f0327857039db3a",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/analyze-results",
+    "name": "analyze-results",
+    "dest": "analyze-results",
+    "sha256": "1a5f798558018fe6c8faa8b9997ac4cd1076aceb73cfb5bdc261e5de5727f7e2",
+    "installed_sha256": "1a5f798558018fe6c8faa8b9997ac4cd1076aceb73cfb5bdc261e5de5727f7e2",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/arxiv",
+    "name": "arxiv",
+    "dest": "arxiv",
+    "sha256": "f984dc04545e7cab0781fc518e9bc7ed5121175cac15a53707e8fc5bbd97c95f",
+    "installed_sha256": "f984dc04545e7cab0781fc518e9bc7ed5121175cac15a53707e8fc5bbd97c95f",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/auto-paper-improvement-loop",
+    "name": "auto-paper-improvement-loop",
+    "dest": "auto-paper-improvement-loop",
+    "sha256": "440e8670432050f4ce57cd527af3f3c176bfc765aceec45f3d070ff7c8adb75c",
+    "installed_sha256": "440e8670432050f4ce57cd527af3f3c176bfc765aceec45f3d070ff7c8adb75c",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/auto-review-loop-llm",
+    "name": "auto-review-loop-llm",
+    "dest": "auto-review-loop-llm",
+    "sha256": "5adc29b505c1180bc6db143fc1ed1a7454c22d034cfadca5237eed8488b5ec8f",
+    "installed_sha256": "9e9d62a09dbb7ed1bc39510eec3c3dffe2b80f60dab7bc71c32e037e0e4bcee6",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/auto-review-loop-minimax",
+    "name": "auto-review-loop-minimax",
+    "dest": "auto-review-loop-minimax",
+    "sha256": "a6f768b079f1ef3f9531167c4557a09cef64aae69518ee557317263fd2c8bc33",
+    "installed_sha256": "794632ec086ea8b47dfaffb4e7b804cfcc1e2fa28040d2f238d2456e60822c14",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/auto-review-loop",
+    "name": "auto-review-loop",
+    "dest": "auto-review-loop",
+    "sha256": "1ddf0c256958151ed330852044c0cf2d4595fa8842ef79ff71dfc7ac590402ec",
+    "installed_sha256": "c3e0093be4889ebdf32ae4276c6134890510f158f7a7c02ff264a84ebf4c7993",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/citation-audit",
+    "name": "citation-audit",
+    "dest": "citation-audit",
+    "sha256": "3f140b0fd75152b239c4fc2ec88c12828efab5da0fc8cbcd1710bafafbe36385",
+    "installed_sha256": "3f140b0fd75152b239c4fc2ec88c12828efab5da0fc8cbcd1710bafafbe36385",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/citation-crosscheck",
+    "name": "citation-crosscheck",
+    "dest": "citation-crosscheck",
+    "sha256": "f842667d385bd59fdc991d0f0d03be5eee001abcfbe41c4f867ea5266ab4e489",
+    "installed_sha256": "f842667d385bd59fdc991d0f0d03be5eee001abcfbe41c4f867ea5266ab4e489",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/claims-drafting",
+    "name": "claims-drafting",
+    "dest": "claims-drafting",
+    "sha256": "ec96a2366808b01d8fef9b91724204c2db0ce27119bf1a45291ee3efb9464ff1",
+    "installed_sha256": "ec96a2366808b01d8fef9b91724204c2db0ce27119bf1a45291ee3efb9464ff1",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/comm-lit-review",
+    "name": "comm-lit-review",
+    "dest": "comm-lit-review",
+    "sha256": "f8f46536c2e0b3e34fa633b617cb407ded580dcc3ee29f8f14daef21e92f1909",
+    "installed_sha256": "f8f46536c2e0b3e34fa633b617cb407ded580dcc3ee29f8f14daef21e92f1909",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/deepxiv",
+    "name": "deepxiv",
+    "dest": "deepxiv",
+    "sha256": "5d26b1218723304ef6d6d0e0421fa8e1d11d33aab33d2b17fbbc7f4a6c314e91",
+    "installed_sha256": "5d26b1218723304ef6d6d0e0421fa8e1d11d33aab33d2b17fbbc7f4a6c314e91",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/dse-loop",
+    "name": "dse-loop",
+    "dest": "dse-loop",
+    "sha256": "daf99d22d3fd955ca197cfc79bc3dc999e6283018f84be8887fe2f3465f74f68",
+    "installed_sha256": "daf99d22d3fd955ca197cfc79bc3dc999e6283018f84be8887fe2f3465f74f68",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/embodiment-description",
+    "name": "embodiment-description",
+    "dest": "embodiment-description",
+    "sha256": "8833b4569435077554d51ac59f79c8b4ceca64b777f129b1e8eaa328be9bb9a2",
+    "installed_sha256": "8833b4569435077554d51ac59f79c8b4ceca64b777f129b1e8eaa328be9bb9a2",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/exa-search",
+    "name": "exa-search",
+    "dest": "exa-search",
+    "sha256": "bb3ec11445ad13e897f891bf0873fa634ced9532de01e4542c342dc2c4ba4edb",
+    "installed_sha256": "bb3ec11445ad13e897f891bf0873fa634ced9532de01e4542c342dc2c4ba4edb",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/experiment-audit",
+    "name": "experiment-audit",
+    "dest": "experiment-audit",
+    "sha256": "355a22aa16bbd08ca78cd3e83784d77606fe4405790969273426f5cfdfec0da3",
+    "installed_sha256": "355a22aa16bbd08ca78cd3e83784d77606fe4405790969273426f5cfdfec0da3",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/experiment-bridge",
+    "name": "experiment-bridge",
+    "dest": "experiment-bridge",
+    "sha256": "313f6e881ecc9c7a6978f4c07ffbade47d0dc89e8d2fe2fc6ed6e36d7f852e7a",
+    "installed_sha256": "06abc6713a4d6550edaa39f9ad51ebe02328c662bdfeb9d499ad75a8e637438b",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/experiment-plan",
+    "name": "experiment-plan",
+    "dest": "experiment-plan",
+    "sha256": "61812df053fd8717cccb248fcabec3863f930eaedba03463bc059294dcc3863a",
+    "installed_sha256": "9041ecc1621ef33d6a47de45294d1bb2bc113207138f98da166fe8f7835ad9e0",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/experiment-queue",
+    "name": "experiment-queue",
+    "dest": "experiment-queue",
+    "sha256": "3a66fbd5f7684d3279bb91eb5d4ec64245f86da3ba507a7b60e357c7d8dfd00f",
+    "installed_sha256": "3a66fbd5f7684d3279bb91eb5d4ec64245f86da3ba507a7b60e357c7d8dfd00f",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/feishu-notify",
+    "name": "feishu-notify",
+    "dest": "feishu-notify",
+    "sha256": "12ba4c282e594a269c4cb28e89a6202a128370ca7bb016a396f3feb118492e4d",
+    "installed_sha256": "12ba4c282e594a269c4cb28e89a6202a128370ca7bb016a396f3feb118492e4d",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/figure-description",
+    "name": "figure-description",
+    "dest": "figure-description",
+    "sha256": "4c69bc650a67d1688f44c909c49be98ffe74ea427b3859edb3c3357ec5730136",
+    "installed_sha256": "4c69bc650a67d1688f44c909c49be98ffe74ea427b3859edb3c3357ec5730136",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/figure-spec",
+    "name": "figure-spec",
+    "dest": "figure-spec",
+    "sha256": "16f75e4ec3789cd9fbdea633f4a0a9340b05d2f316ae0c03998d24f8f9eef2a3",
+    "installed_sha256": "16f75e4ec3789cd9fbdea633f4a0a9340b05d2f316ae0c03998d24f8f9eef2a3",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/firecrawl-search",
+    "name": "firecrawl-search",
+    "dest": "firecrawl-search",
+    "sha256": "4bf34843db39b59f7b15db86338a285cc7329c3ff333d6b6889e09980d251288",
+    "installed_sha256": "4bf34843db39b59f7b15db86338a285cc7329c3ff333d6b6889e09980d251288",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/formula-derivation",
+    "name": "formula-derivation",
+    "dest": "formula-derivation",
+    "sha256": "1958b1fe25459c36ab937ea41650c743d829d83539d23c6bd19382e436cb5d8e",
+    "installed_sha256": "1958b1fe25459c36ab937ea41650c743d829d83539d23c6bd19382e436cb5d8e",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/gemini-search",
+    "name": "gemini-search",
+    "dest": "gemini-search",
+    "sha256": "d33df08b71bd7be3cd4965dda64a5fae04d2cc76586d48e1377bddb7c6bf031a",
+    "installed_sha256": "d33df08b71bd7be3cd4965dda64a5fae04d2cc76586d48e1377bddb7c6bf031a",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/grant-proposal",
+    "name": "grant-proposal",
+    "dest": "grant-proposal",
+    "sha256": "c361e78f98ffbf54eeabf816828e5d06fd2bc0f7edc4561492b14184150dd422",
+    "installed_sha256": "b9fb3fd9f64880dae065fa2243cd8218ec1c084ad039d94e771e866f7adca421",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/idea-creator",
+    "name": "idea-creator",
+    "dest": "idea-creator",
+    "sha256": "fa0786816e85ac117471fed346f2f9fd433214058ed0f4fe117b2f272c573ef5",
+    "installed_sha256": "fa0786816e85ac117471fed346f2f9fd433214058ed0f4fe117b2f272c573ef5",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/idea-discovery-robot",
+    "name": "idea-discovery-robot",
+    "dest": "idea-discovery-robot",
+    "sha256": "34cac6ec8a44fa6ef203c29eb22d84468f6e1aaa13a8860f890855b7aea1e3d5",
+    "installed_sha256": "51dd05633d92b3ab75907dc86c9fbad7b9c0d50533903a015baff859e5fe364a",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/idea-discovery",
+    "name": "idea-discovery",
+    "dest": "idea-discovery",
+    "sha256": "a23e8980f40a3d7580e85cec11fa6f198f05d221c34a1ea843833e763f9a19ab",
+    "installed_sha256": "cb72f147db82d0ef77b9e530ecab1c38aee8cd43072a84af9cb89de514a5a500",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/integrity-forensics",
+    "name": "integrity-forensics",
+    "dest": "integrity-forensics",
+    "sha256": "2bf8330a81956e3afdc2e8dff722e310c6255cf68fdd6285de6e8b32344ceda7",
+    "installed_sha256": "2bf8330a81956e3afdc2e8dff722e310c6255cf68fdd6285de6e8b32344ceda7",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/interview-cheatsheet",
+    "name": "interview-cheatsheet",
+    "dest": "interview-cheatsheet",
+    "sha256": "bf7ea8de6a345a0e9e549314bd1be292bdd84e47dcabd31bca399a1b891bfd13",
+    "installed_sha256": "bf7ea8de6a345a0e9e549314bd1be292bdd84e47dcabd31bca399a1b891bfd13",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/invention-structuring",
+    "name": "invention-structuring",
+    "dest": "invention-structuring",
+    "sha256": "1053541abe5dae9f50fcf2e858b236512e25ed4a33d2178f6fbcab9b4a18bdf8",
+    "installed_sha256": "1053541abe5dae9f50fcf2e858b236512e25ed4a33d2178f6fbcab9b4a18bdf8",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/jurisdiction-format",
+    "name": "jurisdiction-format",
+    "dest": "jurisdiction-format",
+    "sha256": "7683f58c4ad6465b4c4dd4f360876b12b0132777ca4ba40c1e48b777f4b40bb9",
+    "installed_sha256": "7683f58c4ad6465b4c4dd4f360876b12b0132777ca4ba40c1e48b777f4b40bb9",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/keenable-search",
+    "name": "keenable-search",
+    "dest": "keenable-search",
+    "sha256": "0f30c1b1dc35e9e5a7fc30aa220dcaae033526bf2c9c6d4b7f2960c2f3e73690",
+    "installed_sha256": "0f30c1b1dc35e9e5a7fc30aa220dcaae033526bf2c9c6d4b7f2960c2f3e73690",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/kill-argument",
+    "name": "kill-argument",
+    "dest": "kill-argument",
+    "sha256": "daa82cfa7089f234e0e54f399a55e23e80fa18bd68d080c9b875bb1029e63ec4",
+    "installed_sha256": "daa82cfa7089f234e0e54f399a55e23e80fa18bd68d080c9b875bb1029e63ec4",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/lean-formalize",
+    "name": "lean-formalize",
+    "dest": "lean-formalize",
+    "sha256": "462e896dc108e909c073d6ce567508a282fcec376ac0b5ea524fc2082aa44efb",
+    "installed_sha256": "462e896dc108e909c073d6ce567508a282fcec376ac0b5ea524fc2082aa44efb",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/mermaid-diagram",
+    "name": "mermaid-diagram",
+    "dest": "mermaid-diagram",
+    "sha256": "6476810ed42334da342f763651f988450488db5c94de37e2f8ead9c99544b766",
+    "installed_sha256": "6476810ed42334da342f763651f988450488db5c94de37e2f8ead9c99544b766",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/meta-apply",
+    "name": "meta-apply",
+    "dest": "meta-apply",
+    "sha256": "0a4d09147307413215330a223b556ca9bb11efd139e9324ca1a8b57501ca4839",
+    "installed_sha256": "0a4d09147307413215330a223b556ca9bb11efd139e9324ca1a8b57501ca4839",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/meta-optimize",
+    "name": "meta-optimize",
+    "dest": "meta-optimize",
+    "sha256": "c2619caa6fcc9370c87e20159d33cdaf625a280f416029b25375e6218e522b50",
+    "installed_sha256": "c2619caa6fcc9370c87e20159d33cdaf625a280f416029b25375e6218e522b50",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/monitor-experiment",
+    "name": "monitor-experiment",
+    "dest": "monitor-experiment",
+    "sha256": "66a42b21a7ec5a9c4ee2d4da6babfd533764d6c4188dcc178d5bcbd1d8a31072",
+    "installed_sha256": "66a42b21a7ec5a9c4ee2d4da6babfd533764d6c4188dcc178d5bcbd1d8a31072",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/novelty-check",
+    "name": "novelty-check",
+    "dest": "novelty-check",
+    "sha256": "65e1684942c2de5f9791f6e2b1025b320a8a4d7b41032a1991b73bb91719082f",
+    "installed_sha256": "65e1684942c2de5f9791f6e2b1025b320a8a4d7b41032a1991b73bb91719082f",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/openalex",
+    "name": "openalex",
+    "dest": "openalex",
+    "sha256": "8a2bbead002a411e824ba4185d699fdf09399be2ffa6bca4792c75958729ed7e",
+    "installed_sha256": "8a2bbead002a411e824ba4185d699fdf09399be2ffa6bca4792c75958729ed7e",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/overleaf-sync",
+    "name": "overleaf-sync",
+    "dest": "overleaf-sync",
+    "sha256": "15644b418d9d043ac1f66e03242a9f8ecebc63569fc0a43f913252f3bfb2abe7",
+    "installed_sha256": "15644b418d9d043ac1f66e03242a9f8ecebc63569fc0a43f913252f3bfb2abe7",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-claim-audit",
+    "name": "paper-claim-audit",
+    "dest": "paper-claim-audit",
+    "sha256": "583f275e2ed1d4c2f1d6fe4cb7e9733322f2b2c11c8948aa8d2fa66cfe910af2",
+    "installed_sha256": "583f275e2ed1d4c2f1d6fe4cb7e9733322f2b2c11c8948aa8d2fa66cfe910af2",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-compile",
+    "name": "paper-compile",
+    "dest": "paper-compile",
+    "sha256": "c2467ad7b4c915d6e3d51b975d60d2626cc1da58f3b202fc03b753907f737b0c",
+    "installed_sha256": "c2467ad7b4c915d6e3d51b975d60d2626cc1da58f3b202fc03b753907f737b0c",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-figure",
+    "name": "paper-figure",
+    "dest": "paper-figure",
+    "sha256": "a153b73a5df67c48190371254045d848af262f67e55813c54ada3461787250db",
+    "installed_sha256": "a153b73a5df67c48190371254045d848af262f67e55813c54ada3461787250db",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-illustration-image2",
+    "name": "paper-illustration-image2",
+    "dest": "paper-illustration-image2",
+    "sha256": "b259aef1df0780f95c9103c4739d80829b52bcc8d5ad581c46f66749c289912f",
+    "installed_sha256": "b259aef1df0780f95c9103c4739d80829b52bcc8d5ad581c46f66749c289912f",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-illustration",
+    "name": "paper-illustration",
+    "dest": "paper-illustration",
+    "sha256": "1c876e39d880781bc5d6f51c616e02f4e5858750867f027968d5b91564179643",
+    "installed_sha256": "1c876e39d880781bc5d6f51c616e02f4e5858750867f027968d5b91564179643",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-plan",
+    "name": "paper-plan",
+    "dest": "paper-plan",
+    "sha256": "715f69f3e6541256144fe29552c9cbab219d79629114f3fc49ab0d09be265078",
+    "installed_sha256": "4c22c943cdffd655128e8b5c4e9f003b68583793b43f1ac510aef49999dc5121",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-poster-html",
+    "name": "paper-poster-html",
+    "dest": "paper-poster-html",
+    "sha256": "7b05cbaa334e59bb9ac3ea290d91e2ccc96eef3f1deb3e8f70fcc310be4a6d13",
+    "installed_sha256": "7b05cbaa334e59bb9ac3ea290d91e2ccc96eef3f1deb3e8f70fcc310be4a6d13",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-poster",
+    "name": "paper-poster",
+    "dest": "paper-poster",
+    "sha256": "fea8d7e3f4a07d0be9b43d4e7964b989074a26e858d11027e8ed34f8c3be70cb",
+    "installed_sha256": "fea8d7e3f4a07d0be9b43d4e7964b989074a26e858d11027e8ed34f8c3be70cb",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-slides",
+    "name": "paper-slides",
+    "dest": "paper-slides",
+    "sha256": "e5b47c9adc0c9300765a814e0949196b8c94aff7654674c421ca0348850fe80a",
+    "installed_sha256": "e5b47c9adc0c9300765a814e0949196b8c94aff7654674c421ca0348850fe80a",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-talk",
+    "name": "paper-talk",
+    "dest": "paper-talk",
+    "sha256": "92010297a6bf7295c6128b8fc17a10390eada5c23de3721a50cd3c05aa61e69c",
+    "installed_sha256": "92010297a6bf7295c6128b8fc17a10390eada5c23de3721a50cd3c05aa61e69c",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-write",
+    "name": "paper-write",
+    "dest": "paper-write",
+    "sha256": "31e08c10b6044776bace94c6e09f58ffd3fc9bbab04bfa888bf42784d6ede98c",
+    "installed_sha256": "31e08c10b6044776bace94c6e09f58ffd3fc9bbab04bfa888bf42784d6ede98c",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/paper-writing",
+    "name": "paper-writing",
+    "dest": "paper-writing",
+    "sha256": "34adf47ad317849ed8ba3d7610d1dfc79b0a8ee930594f415c15857f762f3374",
+    "installed_sha256": "34adf47ad317849ed8ba3d7610d1dfc79b0a8ee930594f415c15857f762f3374",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/patent-novelty-check",
+    "name": "patent-novelty-check",
+    "dest": "patent-novelty-check",
+    "sha256": "54dbc7784c7da955857ebe9cbe14344c7fa41f8c8566daa59cd3771708a44c64",
+    "installed_sha256": "54dbc7784c7da955857ebe9cbe14344c7fa41f8c8566daa59cd3771708a44c64",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/patent-pipeline",
+    "name": "patent-pipeline",
+    "dest": "patent-pipeline",
+    "sha256": "fde7da9a5763e689fe83c252b8acac30140de4e4540aac651baeb18a6c92b069",
+    "installed_sha256": "fde7da9a5763e689fe83c252b8acac30140de4e4540aac651baeb18a6c92b069",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/patent-review",
+    "name": "patent-review",
+    "dest": "patent-review",
+    "sha256": "5393be3c333fbc0e22f6aa8d2259af23a41309ae39ff346ba06f4d5da492575f",
+    "installed_sha256": "5393be3c333fbc0e22f6aa8d2259af23a41309ae39ff346ba06f4d5da492575f",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/pixel-art",
+    "name": "pixel-art",
+    "dest": "pixel-art",
+    "sha256": "96ccea96d27140be68dd934e6af1d0d576450226152e1d20df6f9d3dc5b0ef23",
+    "installed_sha256": "96ccea96d27140be68dd934e6af1d0d576450226152e1d20df6f9d3dc5b0ef23",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/prior-art-search",
+    "name": "prior-art-search",
+    "dest": "prior-art-search",
+    "sha256": "8793fb26c522de4c44a64b68df81e5d12718a99866c639658261cea680bd58b2",
+    "installed_sha256": "8793fb26c522de4c44a64b68df81e5d12718a99866c639658261cea680bd58b2",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/proof-checker",
+    "name": "proof-checker",
+    "dest": "proof-checker",
+    "sha256": "716a86370b1768b616943d449ab106b901fa55e239ab76ef9f5eebb9779ba39e",
+    "installed_sha256": "716a86370b1768b616943d449ab106b901fa55e239ab76ef9f5eebb9779ba39e",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/proof-orchestrator",
+    "name": "proof-orchestrator",
+    "dest": "proof-orchestrator",
+    "sha256": "d4c06928e9281ad7208c7402f69611cf813e16353b85bf7fe432ad0b6666fcde",
+    "installed_sha256": "d4c06928e9281ad7208c7402f69611cf813e16353b85bf7fe432ad0b6666fcde",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/proof-writer",
+    "name": "proof-writer",
+    "dest": "proof-writer",
+    "sha256": "9791fd55d8bedaedcca21b660cf6e4ce92da77f1acfe0d8678d535d150e217d4",
+    "installed_sha256": "9791fd55d8bedaedcca21b660cf6e4ce92da77f1acfe0d8678d535d150e217d4",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/qzcli",
+    "name": "qzcli",
+    "dest": "qzcli",
+    "sha256": "328953e6e4a21f8a38e979f9729818721af387724b799cb7cc96e072d0012d2f",
+    "installed_sha256": "328953e6e4a21f8a38e979f9729818721af387724b799cb7cc96e072d0012d2f",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/rebuttal",
+    "name": "rebuttal",
+    "dest": "rebuttal",
+    "sha256": "a8af829f6c45cb62a65df327bec2afda83642849b79346a0d0bfe031f2a7a0b5",
+    "installed_sha256": "a8af829f6c45cb62a65df327bec2afda83642849b79346a0d0bfe031f2a7a0b5",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/render-html",
+    "name": "render-html",
+    "dest": "render-html",
+    "sha256": "13b96aee8d05acd637d32b6806a83c93392ea198d7eb338419afcb54cd02610b",
+    "installed_sha256": "13b96aee8d05acd637d32b6806a83c93392ea198d7eb338419afcb54cd02610b",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/research-implement-feature",
+    "name": "research-implement-feature",
+    "dest": "research-implement-feature",
+    "sha256": "33605606e3b04940b6b262e88a1a729a6a0c81f6a831c3a734c57ab75c57acf8",
+    "installed_sha256": "33605606e3b04940b6b262e88a1a729a6a0c81f6a831c3a734c57ab75c57acf8",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/research-lit",
+    "name": "research-lit",
+    "dest": "research-lit",
+    "sha256": "87844f4afb7b71a4cdd71b4073b11c0aee3d22e5cfa4f00db1b84c2469059fd4",
+    "installed_sha256": "87844f4afb7b71a4cdd71b4073b11c0aee3d22e5cfa4f00db1b84c2469059fd4",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/research-pipeline",
+    "name": "research-pipeline",
+    "dest": "research-pipeline",
+    "sha256": "8caec65ac3988cd619dcdada3f0e72069536e01c94bf91fe853bf799567eca9d",
+    "installed_sha256": "8caec65ac3988cd619dcdada3f0e72069536e01c94bf91fe853bf799567eca9d",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/research-refine-pipeline",
+    "name": "research-refine-pipeline",
+    "dest": "research-refine-pipeline",
+    "sha256": "65538a42c2f697c627b8e209d9c5aafcec338dbe12f8f22e82cb2a707d719262",
+    "installed_sha256": "e8336ae997114dd851cdfa8f43abd3dd30efd86bb1ddad37f41554aab13438b5",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/research-refine",
+    "name": "research-refine",
+    "dest": "research-refine",
+    "sha256": "0bd57b339f0badf257df1cb5325a4ee8a69e7eab2f7ab4c8babdaafcbc56a798",
+    "installed_sha256": "1cccd2089a6435369bd3939bcfd28f842ea3c2f5b94ca446f6f97d0acf23f8cc",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "local_adjustment": "Corrected ../../shared-references/ to ../shared-references/ for flat global installation."
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/research-review",
+    "name": "research-review",
+    "dest": "research-review",
+    "sha256": "17505d5982c82e821124de898b0beb7de4a98ecc4c1cd173b8687b74ace9d4c5",
+    "installed_sha256": "17505d5982c82e821124de898b0beb7de4a98ecc4c1cd173b8687b74ace9d4c5",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/research-wiki",
+    "name": "research-wiki",
+    "dest": "research-wiki",
+    "sha256": "bd0af95ccab3a92f13c4a7b6db3fce0b1beaa7643e2e245b0044b8f6b4edfb6c",
+    "installed_sha256": "bd0af95ccab3a92f13c4a7b6db3fce0b1beaa7643e2e245b0044b8f6b4edfb6c",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/resubmit-pipeline",
+    "name": "resubmit-pipeline",
+    "dest": "resubmit-pipeline",
+    "sha256": "11137004644537951fe76ce7935dcdd25c25ada6420aa7dc3059b334014911ac",
+    "installed_sha256": "11137004644537951fe76ce7935dcdd25c25ada6420aa7dc3059b334014911ac",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/result-to-claim",
+    "name": "result-to-claim",
+    "dest": "result-to-claim",
+    "sha256": "2e67d8bc7eb178aba18f3a3b646b59d3ca25836a42154acabe35dfa705f9f0ec",
+    "installed_sha256": "2e67d8bc7eb178aba18f3a3b646b59d3ca25836a42154acabe35dfa705f9f0ec",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/run-experiment",
+    "name": "run-experiment",
+    "dest": "run-experiment",
+    "sha256": "538f9735d18b1eaa3b4776a292b9a2d674e9bc37d84ec99e5f8b6343a4306f2d",
+    "installed_sha256": "538f9735d18b1eaa3b4776a292b9a2d674e9bc37d84ec99e5f8b6343a4306f2d",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/semantic-scholar",
+    "name": "semantic-scholar",
+    "dest": "semantic-scholar",
+    "sha256": "7e91ddfecb979562dd49797d2244cd03f796049fb116a418d12dbad70dca34bb",
+    "installed_sha256": "7e91ddfecb979562dd49797d2244cd03f796049fb116a418d12dbad70dca34bb",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/serverless-modal",
+    "name": "serverless-modal",
+    "dest": "serverless-modal",
+    "sha256": "a57ba889e70f4108f1b1427e1b352ca892918f6216eb2678289b3d829a9d7325",
+    "installed_sha256": "a57ba889e70f4108f1b1427e1b352ca892918f6216eb2678289b3d829a9d7325",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/slides-polish",
+    "name": "slides-polish",
+    "dest": "slides-polish",
+    "sha256": "e496783d0ba09233ffccf9cce4bb933f62523989746120a52861078d7f453b8d",
+    "installed_sha256": "e496783d0ba09233ffccf9cce4bb933f62523989746120a52861078d7f453b8d",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/specification-writing",
+    "name": "specification-writing",
+    "dest": "specification-writing",
+    "sha256": "e6de83cdf45ddba8fe70da36aac09c677d9afcb33efcbc941ce5320b90f48601",
+    "installed_sha256": "e6de83cdf45ddba8fe70da36aac09c677d9afcb33efcbc941ce5320b90f48601",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/system-profile",
+    "name": "system-profile",
+    "dest": "system-profile",
+    "sha256": "9d31e32d2a63cf2f27a843e171c652327596c3f9e911c265660618d4ba27c48e",
+    "installed_sha256": "9d31e32d2a63cf2f27a843e171c652327596c3f9e911c265660618d4ba27c48e",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/training-check",
+    "name": "training-check",
+    "dest": "training-check",
+    "sha256": "94bcb09c9b2eae90f2bcfeb98d652dd72dbe00d42be47486650397ad5be69c44",
+    "installed_sha256": "94bcb09c9b2eae90f2bcfeb98d652dd72dbe00d42be47486650397ad5be69c44",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/vast-gpu",
+    "name": "vast-gpu",
+    "dest": "vast-gpu",
+    "sha256": "38e0f7c622e85bc96978ffb945c3f07a779f4f8e931cac917e51f8be8e8624d4",
+    "installed_sha256": "38e0f7c622e85bc96978ffb945c3f07a779f4f8e931cac917e51f8be8e8624d4",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/web-debug-search",
+    "name": "web-debug-search",
+    "dest": "web-debug-search",
+    "sha256": "ffb5f3ccf61c45d90c41901c251263f945c67baba0f91cb300cc1d53dcd63d01",
+    "installed_sha256": "ffb5f3ccf61c45d90c41901c251263f945c67baba0f91cb300cc1d53dcd63d01",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/wiki-enrich",
+    "name": "wiki-enrich",
+    "dest": "wiki-enrich",
+    "sha256": "3c4eca73f46432b0a2b47caa6e8fc91bd779e73c86826d2cd0a8c18797b83817",
+    "installed_sha256": "3c4eca73f46432b0a2b47caa6e8fc91bd779e73c86826d2cd0a8c18797b83817",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "path": "skills/skills-codex/writing-systems-papers",
+    "name": "writing-systems-papers",
+    "dest": "writing-systems-papers",
+    "sha256": "14a79a6b44b8e0723be097f3c120f0d787bef1a9d0f16ff1e1511c6ec1e765f1",
+    "installed_sha256": "14a79a6b44b8e0723be097f3c120f0d787bef1a9d0f16ff1e1511c6ec1e765f1",
+    "source_commit": "8f493923f28c3f991dcca1287db97aa780d0969b",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/benchmark-paper-template",
+    "name": "benchmark-paper-template",
+    "dest": "benchmark-paper-template",
+    "sha256": "daa63e695d0dccd317517b90b92d0f7e3f1f67f104ee5971ad6e9b5c120d3095",
+    "installed_sha256": "daa63e695d0dccd317517b90b92d0f7e3f1f67f104ee5971ad6e9b5c120d3095",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/deep-research",
+    "name": "deep-research",
+    "dest": "deep-research",
+    "sha256": "68078fb2307ec659930ad9d9b2e2cb0932a0ff0a4939875ca6f27bec59004c91",
+    "installed_sha256": "68078fb2307ec659930ad9d9b2e2cb0932a0ff0a4939875ca6f27bec59004c91",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/drawio-reconstruction",
+    "name": "drawio-reconstruction",
+    "dest": "drawio-reconstruction",
+    "sha256": "ccc4e5fa5ccd4d7f8a33f88c241d8df2e951f015d2dadfbaa5506d323ea38441",
+    "installed_sha256": "ccc4e5fa5ccd4d7f8a33f88c241d8df2e951f015d2dadfbaa5506d323ea38441",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/figure-designer",
+    "name": "figure-designer",
+    "dest": "figure-designer",
+    "sha256": "c9ba67c1c21972ac6e48f22397e45b9e0855f0feb407c3599308de2902880b57",
+    "installed_sha256": "c9ba67c1c21972ac6e48f22397e45b9e0855f0feb407c3599308de2902880b57",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/idea-evaluator",
+    "name": "idea-evaluator",
+    "dest": "idea-evaluator",
+    "sha256": "630ce9528f472637830b216bf6de231e6dfdcdae4d3b16976324da5ce2d145fb",
+    "installed_sha256": "630ce9528f472637830b216bf6de231e6dfdcdae4d3b16976324da5ce2d145fb",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/intro-drafter",
+    "name": "intro-drafter",
+    "dest": "intro-drafter",
+    "sha256": "675e8a97a58a841b04dd9fa061fcc03075e75695aada5c7b23d1c1498435d5a7",
+    "installed_sha256": "675e8a97a58a841b04dd9fa061fcc03075e75695aada5c7b23d1c1498435d5a7",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/paper-polish",
+    "name": "paper-polish",
+    "dest": "paper-polish",
+    "sha256": "fde7964acfea805a399d52da0355dac3139b51be9b2aa456348538c4713f75ce",
+    "installed_sha256": "fde7964acfea805a399d52da0355dac3139b51be9b2aa456348538c4713f75ce",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/paper-writer",
+    "name": "paper-writer",
+    "dest": "paper-writer",
+    "sha256": "5ac3df38ca0f6a4a2b7600be100a8b1eb65bec7ce96e492682b765c10e158630",
+    "installed_sha256": "5ac3df38ca0f6a4a2b7600be100a8b1eb65bec7ce96e492682b765c10e158630",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/pre-submission-reviewer",
+    "name": "pre-submission-reviewer",
+    "dest": "pre-submission-reviewer",
+    "sha256": "639a96684ad6ca50fb1141287c4d3f2af76653b95cb2dae3dd7897d212bd8c35",
+    "installed_sha256": "639a96684ad6ca50fb1141287c4d3f2af76653b95cb2dae3dd7897d212bd8c35",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/rebuttal-guidance",
+    "name": "rebuttal-guidance",
+    "dest": "rebuttal-guidance",
+    "sha256": "cdccf6a9f0de1a459cfbc22943dcd351a913140ce459b2477ea0e7c567070a2a",
+    "installed_sha256": "cdccf6a9f0de1a459cfbc22943dcd351a913140ce459b2477ea0e7c567070a2a",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/tech-paper-template",
+    "name": "tech-paper-template",
+    "dest": "tech-paper-template",
+    "sha256": "93625f319514cba10cb989cd670af6ee623b079f063ace8d1451af56c7c0c879",
+    "installed_sha256": "93625f319514cba10cb989cd670af6ee623b079f063ace8d1451af56c7c0c879",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "path": "skills/vibe-research-workflow",
+    "name": "vibe-research-workflow",
+    "dest": "vibe-research-workflow",
+    "sha256": "c26a9f011cb8e88d6d5000c1b1844db7278334c07e84be4bae7ea8d08084a333",
+    "installed_sha256": "c26a9f011cb8e88d6d5000c1b1844db7278334c07e84be4bae7ea8d08084a333",
+    "source_commit": "4bd3fef393e5ffc891c74309a5ef6c5ad3ad12c8",
+    "source_url": "https://github.com/HKUSTDial/Supervisor-Skills"
+  },
+  {
+    "repo": "Imbad0202/academic-research-skills-codex",
+    "path": "skills/academic-research-suite",
+    "name": "academic-research-suite",
+    "dest": "academic-research-suite",
+    "sha256": "44fe00bcd78d82e68fb048cf48ca5d9a1cf4450bb303c65c96d0680ab913a8a9",
+    "installed_sha256": "44fe00bcd78d82e68fb048cf48ca5d9a1cf4450bb303c65c96d0680ab913a8a9",
+    "source_commit": "82725acb393c4410ac6f47634a7f51b40a162fa4",
+    "source_url": "https://github.com/Imbad0202/academic-research-skills-codex"
+  },
+  {
+    "repo": "Adkid-Zephyr/anti-defensive-writing-Skill",
+    "path": "skills/anti-defensive-writing-en",
+    "name": "anti-defensive-writing-en",
+    "dest": "anti-defensive-writing-en",
+    "sha256": "49705a92677d06b1be9f78be5be4f966b1d30c4ed72a3b97c86a973d06683b9b",
+    "installed_sha256": "49705a92677d06b1be9f78be5be4f966b1d30c4ed72a3b97c86a973d06683b9b",
+    "source_commit": "82d31402caa0db1790026824399044538483171b",
+    "source_url": "https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill"
+  },
+  {
+    "repo": "Adkid-Zephyr/anti-defensive-writing-Skill",
+    "path": "skills/anti-defensive-writing",
+    "name": "anti-defensive-writing",
+    "dest": "anti-defensive-writing",
+    "sha256": "6f072e66f6adf813bc1b4291754f2bc07ed4e65a398359844e97bfa215a1c28e",
+    "installed_sha256": "6f072e66f6adf813bc1b4291754f2bc07ed4e65a398359844e97bfa215a1c28e",
+    "source_commit": "82d31402caa0db1790026824399044538483171b",
+    "source_url": "https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill"
+  },
+  {
+    "repo": "leo-lilinxiao/codex-autoresearch",
+    "path": ".",
+    "name": "codex-autoresearch",
+    "dest": "codex-autoresearch",
+    "sha256": "eb8a3453edfd3e8fbaa35fac928e7dda22aa5d9bd593c42f4a3639843107592f",
+    "installed_sha256": "eb8a3453edfd3e8fbaa35fac928e7dda22aa5d9bd593c42f4a3639843107592f",
+    "source_commit": "0f54c571707487f59486ba7c50d405edfc746c19",
+    "source_url": "https://github.com/leo-lilinxiao/codex-autoresearch"
+  },
+  {
+    "repo": "zLanqing/codex-claude-academic-skills",
+    "path": "office-academic-skill",
+    "name": "office-academic-skill",
+    "dest": "office-academic-skill",
+    "sha256": "81408a5882f102435b2cd1e7ed77d7a50098416fd99ae9de0aad51e47abc42e8",
+    "installed_sha256": "81408a5882f102435b2cd1e7ed77d7a50098416fd99ae9de0aad51e47abc42e8",
+    "source_commit": "7ed6377f0efb6a38951b48ef03b19d996e454b1f",
+    "source_url": "https://github.com/zLanqing/codex-claude-academic-skills"
+  },
+  {
+    "repo": "zLanqing/codex-claude-academic-skills",
+    "path": "research-writing-skill",
+    "name": "research-writing-skill",
+    "dest": "research-writing-skill",
+    "sha256": "ce5f25f99ebb01e6d12624dbee1967226ed5b59aa914496bf7b998e9a31a6630",
+    "installed_sha256": "ce5f25f99ebb01e6d12624dbee1967226ed5b59aa914496bf7b998e9a31a6630",
+    "source_commit": "7ed6377f0efb6a38951b48ef03b19d996e454b1f",
+    "source_url": "https://github.com/zLanqing/codex-claude-academic-skills"
+  },
+  {
+    "repo": "zLanqing/codex-claude-academic-skills",
+    "path": "scientific-toolkit-skill",
+    "name": "scientific-toolkit-skill",
+    "dest": "scientific-toolkit-skill",
+    "sha256": "f3806f059a102446776fe8e15a492fed76af0483a4336e4d034e239e4243abb3",
+    "installed_sha256": "f3806f059a102446776fe8e15a492fed76af0483a4336e4d034e239e4243abb3",
+    "source_commit": "7ed6377f0efb6a38951b48ef03b19d996e454b1f",
+    "source_url": "https://github.com/zLanqing/codex-claude-academic-skills"
+  },
+  {
+    "repo": "blader/humanizer",
+    "path": ".",
+    "name": "humanizer",
+    "dest": "humanizer",
+    "sha256": "804a119e924ac30295b298213e0b71b3e38b2667b8ef4fb7b69e9246369b9045",
+    "installed_sha256": "804a119e924ac30295b298213e0b71b3e38b2667b8ef4fb7b69e9246369b9045",
+    "source_commit": "b48c832f0f809c1b5658edbb838c2521b72f2413",
+    "source_url": "https://github.com/blader/humanizer"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-academic-search",
+    "name": "nature-academic-search",
+    "dest": "nature-academic-search",
+    "sha256": "3ed327e3e9c56cddfaa0e48ffb3503b1f9e27f917916013798ef57bf8131101a",
+    "installed_sha256": "3ed327e3e9c56cddfaa0e48ffb3503b1f9e27f917916013798ef57bf8131101a",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-citation",
+    "name": "nature-citation",
+    "dest": "nature-citation",
+    "sha256": "f0436639c2bcf966e8f8cdda6e06501b396bb32cc3b7cce57f67eb0cd7b5a44d",
+    "installed_sha256": "f0436639c2bcf966e8f8cdda6e06501b396bb32cc3b7cce57f67eb0cd7b5a44d",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-data",
+    "name": "nature-data",
+    "dest": "nature-data",
+    "sha256": "4ef9c383411b069265901e9f157cb4d73861f42f6ddd28611084005e67eafa43",
+    "installed_sha256": "4ef9c383411b069265901e9f157cb4d73861f42f6ddd28611084005e67eafa43",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-downloader",
+    "name": "nature-downloader",
+    "dest": "nature-downloader",
+    "sha256": "d57f02ec3fc3a5341819a132df039f192d3beaf5709b57dee552589254ef6b85",
+    "installed_sha256": "d57f02ec3fc3a5341819a132df039f192d3beaf5709b57dee552589254ef6b85",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-experiment-log",
+    "name": "nature-experiment-log",
+    "dest": "nature-experiment-log",
+    "sha256": "1f7fffcbc950d4f60fcb5ad9f2aabe82246ebbd83bf29621a0e90c9ff4ec4b8b",
+    "installed_sha256": "1f7fffcbc950d4f60fcb5ad9f2aabe82246ebbd83bf29621a0e90c9ff4ec4b8b",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-figure",
+    "name": "nature-figure",
+    "dest": "nature-figure",
+    "sha256": "5aefe708a2531c5ddaa8ee74d5155d747e96c0f21a33143d38316b7c5c88ffc4",
+    "installed_sha256": "5aefe708a2531c5ddaa8ee74d5155d747e96c0f21a33143d38316b7c5c88ffc4",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-image2ppt",
+    "name": "nature-image2ppt",
+    "dest": "nature-image2ppt",
+    "sha256": "0b49331f7b97e0751248c84506cada638f29ff44bb3023686f89a9f858748e9e",
+    "installed_sha256": "0b49331f7b97e0751248c84506cada638f29ff44bb3023686f89a9f858748e9e",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-literature-pipeline",
+    "name": "nature-literature-pipeline",
+    "dest": "nature-literature-pipeline",
+    "sha256": "1dcaa692457ec9c2be409cb7777f834a2db833788b2e9b680baf0e961126b01a",
+    "installed_sha256": "1dcaa692457ec9c2be409cb7777f834a2db833788b2e9b680baf0e961126b01a",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-paper-card",
+    "name": "nature-paper-card",
+    "dest": "nature-paper-card",
+    "sha256": "a71e3dbc446523e415ed4b896bed8ea60e0c598fb8655c587679d719648b68c9",
+    "installed_sha256": "a71e3dbc446523e415ed4b896bed8ea60e0c598fb8655c587679d719648b68c9",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-paper-to-patent",
+    "name": "nature-paper-to-patent",
+    "dest": "nature-paper-to-patent",
+    "sha256": "b65243157addf3e4e38de4cb35136d95478c2c997bdd5600e6ae21f91f4d06f0",
+    "installed_sha256": "b65243157addf3e4e38de4cb35136d95478c2c997bdd5600e6ae21f91f4d06f0",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-paper-trans",
+    "name": "nature-paper-trans",
+    "dest": "nature-paper-trans",
+    "sha256": "bf59cfce453dcc0616e3e95530f9dd7da51511fbd5793fc20005fa7f7ddde57c",
+    "installed_sha256": "bf59cfce453dcc0616e3e95530f9dd7da51511fbd5793fc20005fa7f7ddde57c",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-paper-xray",
+    "name": "nature-paper-xray",
+    "dest": "nature-paper-xray",
+    "sha256": "c889b3751672fa453d761f0a2956cf8304b51a383be6d10f06d27f0371012d87",
+    "installed_sha256": "c889b3751672fa453d761f0a2956cf8304b51a383be6d10f06d27f0371012d87",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-paper2ppt",
+    "name": "nature-paper2ppt",
+    "dest": "nature-paper2ppt",
+    "sha256": "a8d0fd14ca0863602cfc76305467d0f5a6ac2c104abedd7f7e86dfcf46bf04cf",
+    "installed_sha256": "a8d0fd14ca0863602cfc76305467d0f5a6ac2c104abedd7f7e86dfcf46bf04cf",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-paper2word",
+    "name": "nature-paper2word",
+    "dest": "nature-paper2word",
+    "sha256": "46e3f888882cbde19cb71ed151ab5c04cec9421e863c12115835dfaccaec0e15",
+    "installed_sha256": "46e3f888882cbde19cb71ed151ab5c04cec9421e863c12115835dfaccaec0e15",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-polishing",
+    "name": "nature-polishing",
+    "dest": "nature-polishing",
+    "sha256": "9391b2a2487306cf2ed560377d4bc10c339fd2c220a79db278cb7f9d31e79023",
+    "installed_sha256": "9391b2a2487306cf2ed560377d4bc10c339fd2c220a79db278cb7f9d31e79023",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-proposal-writer",
+    "name": "researchwrite",
+    "dest": "nature-proposal-writer",
+    "sha256": "9be8ae52f909969592529414fb6f5bb54059c8cbe520e78b53d22b297cef5e4a",
+    "installed_sha256": "9be8ae52f909969592529414fb6f5bb54059c8cbe520e78b53d22b297cef5e4a",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-reader",
+    "name": "nature-reader",
+    "dest": "nature-reader",
+    "sha256": "999a5c1b116558133d0389ce6c1bbc3dc9cf5242d1be2870358789769d97a84e",
+    "installed_sha256": "999a5c1b116558133d0389ce6c1bbc3dc9cf5242d1be2870358789769d97a84e",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-ref-verifier",
+    "name": "nature-ref-verifier",
+    "dest": "nature-ref-verifier",
+    "sha256": "6a975074d7a1c62c00dd9e8c7367cd2af0ef9d573d6d6ce5ea12f70d9320a516",
+    "installed_sha256": "6a975074d7a1c62c00dd9e8c7367cd2af0ef9d573d6d6ce5ea12f70d9320a516",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-response",
+    "name": "nature-response",
+    "dest": "nature-response",
+    "sha256": "a8283db56e73879413311cbcde1db4c72dd4390bbe21ab2f62f1f968610b5de1",
+    "installed_sha256": "a8283db56e73879413311cbcde1db4c72dd4390bbe21ab2f62f1f968610b5de1",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-reviewer",
+    "name": "nature-reviewer",
+    "dest": "nature-reviewer",
+    "sha256": "8ca28cc8e8bda2b5254056940d2a696dc0d3cabcd5573cdec98ffc3cbd162610",
+    "installed_sha256": "8ca28cc8e8bda2b5254056940d2a696dc0d3cabcd5573cdec98ffc3cbd162610",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-shared",
+    "name": "nature-shared",
+    "dest": "nature-shared",
+    "sha256": "3d914e73f023cab4f247d82f906a948307de8a867fd6c33df999badf67c5d5f2",
+    "installed_sha256": "3d914e73f023cab4f247d82f906a948307de8a867fd6c33df999badf67c5d5f2",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-social-science",
+    "name": "nature-social-science",
+    "dest": "nature-social-science",
+    "sha256": "62c1b5624734ba954da28330adb93f2330605d4dfb2a463044fae9e539c037eb",
+    "installed_sha256": "62c1b5624734ba954da28330adb93f2330605d4dfb2a463044fae9e539c037eb",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-statistics",
+    "name": "nature-statistics",
+    "dest": "nature-statistics",
+    "sha256": "89d2a101fc45d7adf8ca327a6da4bda4a696d6364d7c36ead4f53413627a9b6f",
+    "installed_sha256": "89d2a101fc45d7adf8ca327a6da4bda4a696d6364d7c36ead4f53413627a9b6f",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Yuan1z0825/nature-skills",
+    "path": "skills/nature-writing",
+    "name": "nature-writing",
+    "dest": "nature-writing",
+    "sha256": "ce7c4d20329b96b03b0f0c0bb744411b1b4deaa7a7b69b90757705a83c195b12",
+    "installed_sha256": "ce7c4d20329b96b03b0f0c0bb744411b1b4deaa7a7b69b90757705a83c195b12",
+    "source_commit": "a1a8220366e82ecd8584ea3d7f46cb3969f4b018",
+    "source_url": "https://github.com/Yuan1z0825/nature-skills"
+  },
+  {
+    "repo": "Slazee/research-paper-writing-skills",
+    "path": "research-paper-writing",
+    "name": "research-paper-writing",
+    "dest": "research-paper-writing",
+    "sha256": "62ef11c06f2796c74e55ab24908ed31bafebfa0f1b736499d1615ac374cf7f6d",
+    "installed_sha256": "62ef11c06f2796c74e55ab24908ed31bafebfa0f1b736499d1615ac374cf7f6d",
+    "source_commit": "77e7c2c1ba06f7d71844873147665437a03aac1b",
+    "source_url": "https://github.com/Slazee/research-paper-writing-skills"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/brainstorming",
+    "name": "brainstorming",
+    "dest": "brainstorming",
+    "sha256": "2c9ca71f94886f9ca9f4aef055f7cafb3e1a9bdf3aeebf8f4cb547c69405d207",
+    "installed_sha256": "2c9ca71f94886f9ca9f4aef055f7cafb3e1a9bdf3aeebf8f4cb547c69405d207",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/diagnosing-superpowers",
+    "name": "diagnosing-superpowers",
+    "dest": "diagnosing-superpowers",
+    "sha256": "3143de8695c5a2d63e8b1675f33837578076f464deb127c2ebdd0b46fceef886",
+    "installed_sha256": "3143de8695c5a2d63e8b1675f33837578076f464deb127c2ebdd0b46fceef886",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "dest": "dispatching-parallel-agents",
+    "sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+    "installed_sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/executing-plans",
+    "name": "executing-plans",
+    "dest": "executing-plans",
+    "sha256": "deaf176fa179827e80f2ea3101db3ea90fdf562ebef340eba761e4687940f5f5",
+    "installed_sha256": "deaf176fa179827e80f2ea3101db3ea90fdf562ebef340eba761e4687940f5f5",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/finishing-a-development-branch",
+    "name": "finishing-a-development-branch",
+    "dest": "finishing-a-development-branch",
+    "sha256": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
+    "installed_sha256": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/receiving-code-review",
+    "name": "receiving-code-review",
+    "dest": "receiving-code-review",
+    "sha256": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+    "installed_sha256": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/requesting-code-review",
+    "name": "requesting-code-review",
+    "dest": "requesting-code-review",
+    "sha256": "2180e14a448e9410bec88e6646a2d1f0ce7fdd58de27388c1e052e929679d2bc",
+    "installed_sha256": "2180e14a448e9410bec88e6646a2d1f0ce7fdd58de27388c1e052e929679d2bc",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/subagent-driven-development",
+    "name": "subagent-driven-development",
+    "dest": "subagent-driven-development",
+    "sha256": "1baf70e307bde682c462513c86116333f1f066168c6710f45145bf5f0b00828d",
+    "installed_sha256": "1baf70e307bde682c462513c86116333f1f066168c6710f45145bf5f0b00828d",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/systematic-debugging",
+    "name": "systematic-debugging",
+    "dest": "systematic-debugging",
+    "sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
+    "installed_sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/test-driven-development",
+    "name": "test-driven-development",
+    "dest": "test-driven-development",
+    "sha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d",
+    "installed_sha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/using-git-worktrees",
+    "name": "using-git-worktrees",
+    "dest": "using-git-worktrees",
+    "sha256": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
+    "installed_sha256": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/using-superpowers",
+    "name": "using-superpowers",
+    "dest": "using-superpowers",
+    "sha256": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba",
+    "installed_sha256": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/verification-before-completion",
+    "name": "verification-before-completion",
+    "dest": "verification-before-completion",
+    "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+    "installed_sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/writing-plans",
+    "name": "writing-plans",
+    "dest": "writing-plans",
+    "sha256": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a",
+    "installed_sha256": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "obra/superpowers",
+    "path": "skills/writing-skills",
+    "name": "writing-skills",
+    "dest": "writing-skills",
+    "sha256": "8cb3ac68c6d8c4bb46886b998b09af7989643cab8bd0e46ee86dd62e64546bbe",
+    "installed_sha256": "8cb3ac68c6d8c4bb46886b998b09af7989643cab8bd0e46ee86dd62e64546bbe",
+    "source_commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "source_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "WUBING2023/PaperSpine",
+    "name": "paper-spine",
+    "dest": "paper-spine",
+    "runtime_health": "READY / doctor PASS",
+    "profile": "/home/xpm/.paperspine5/profiles/default",
+    "installed_sha256": "a120a2f2c244010a8292761c837d59a51f8896747bba8fa0b23651002c803223",
+    "source_commit": "42312b8d9c76ab25990cddfd76e3622276854118",
+    "source_url": "https://github.com/WUBING2023/PaperSpine"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "13c-metabolic-flux",
+    "dest": "13c-metabolic-flux",
+    "path": "skills/13c-metabolic-flux",
+    "local_adjustment": null,
+    "installed_sha256": "8318b1c785cc80bf095b8667a96061cd5f4b0b9c4e5fa77fd7f57fd8403f2c0f",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "adaptyv",
+    "dest": "adaptyv",
+    "path": "skills/adaptyv",
+    "local_adjustment": null,
+    "installed_sha256": "5de115067c118609dc096f9d582c687fdf331150e3f21c54eedb2ade24d12846",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "aeon",
+    "dest": "aeon",
+    "path": "skills/aeon",
+    "local_adjustment": null,
+    "installed_sha256": "e1d25cbe0ba5f849299e9e02bd339773bb41529dcece5a6ee68bb080855b97a6",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "alphagenome",
+    "dest": "alphagenome",
+    "path": "skills/alphagenome",
+    "local_adjustment": null,
+    "installed_sha256": "b133d2a9ff99652b439e0a6f00f93bad49f388be207f7e0241837e001a964947",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "analytical-method-validation",
+    "dest": "analytical-method-validation",
+    "path": "skills/analytical-method-validation",
+    "local_adjustment": null,
+    "installed_sha256": "7c2cd278bd397f0f85f4fc790b236a61190cff8799c8ece8da923342f4dc0032",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "anndata",
+    "dest": "anndata",
+    "path": "skills/anndata",
+    "local_adjustment": null,
+    "installed_sha256": "a619c4088e1be6f6feaa5838c63ff8c4381fa21b4adee2a9276aa61464f3a034",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "arbor",
+    "dest": "arbor",
+    "path": "skills/arbor",
+    "local_adjustment": null,
+    "installed_sha256": "aae219831d92984eb6584831f77509cb8650a3986e8c42474aaa4d118ce080a6",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "arboreto",
+    "dest": "arboreto",
+    "path": "skills/arboreto",
+    "local_adjustment": null,
+    "installed_sha256": "38ff6f24b8fd4a86e2a57ae7bb7669fe4ce401f7375efcc82a6c004f4c51d344",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "astropy",
+    "dest": "astropy",
+    "path": "skills/astropy",
+    "local_adjustment": null,
+    "installed_sha256": "2f9d43ae65766a9715112e3b56cb83fb9c12e4e8b6356c0c4c22131c6cfa536f",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "autoskill",
+    "dest": "autoskill",
+    "path": "skills/autoskill",
+    "local_adjustment": null,
+    "installed_sha256": "d7fc7db094649f5cd1ee6349110d78197166011e929aecd2d468e251b0542ecc",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "benchling-integration",
+    "dest": "benchling-integration",
+    "path": "skills/benchling-integration",
+    "local_adjustment": null,
+    "installed_sha256": "115b5418f7c42748918eed922b78010c795920b276063b8b759802eb0172d5de",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "bgpt-paper-search",
+    "dest": "bgpt-paper-search",
+    "path": "skills/bgpt-paper-search",
+    "local_adjustment": null,
+    "installed_sha256": "3b7db6956c13ccf24df151f0905ae579ed58230708a4ba19e6d6fb3bf9d4d6b7",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "bids",
+    "dest": "bids",
+    "path": "skills/bids",
+    "local_adjustment": null,
+    "installed_sha256": "e1ae63105ccc2e4da7c40e8a2f40d031dd8f2a77270be626df780f0c39eb0b1b",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "biopython",
+    "dest": "biopython",
+    "path": "skills/biopython",
+    "local_adjustment": null,
+    "installed_sha256": "b617561b38a2e3ecc8f8cf3dd8bb0307ac1aaf4d67e6e0432b0c248bc4382245",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "bioservices",
+    "dest": "bioservices",
+    "path": "skills/bioservices",
+    "local_adjustment": null,
+    "installed_sha256": "9edc884f0fe216d510417d565ae74cc61608824b52eeb53ed0cdea3dcda5bda3",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "bulk-rnaseq",
+    "dest": "bulk-rnaseq",
+    "path": "skills/bulk-rnaseq",
+    "local_adjustment": null,
+    "installed_sha256": "e945e970268505368e20d9ddc0c135de469e86626d67565ae9047fb05f70cdbf",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "cantera",
+    "dest": "cantera",
+    "path": "skills/cantera",
+    "local_adjustment": null,
+    "installed_sha256": "1dcb22bba51475a69dc93bbefa7d2581f3dfdb6a03a6fc55f8637e398f733a51",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "cellprofiler",
+    "dest": "cellprofiler",
+    "path": "skills/cellprofiler",
+    "local_adjustment": null,
+    "installed_sha256": "b822ed64acb189d900f59ba69418e5e41261d539fd2fd847e402cded2fc1bb38",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "cellxgene-census",
+    "dest": "cellxgene-census",
+    "path": "skills/cellxgene-census",
+    "local_adjustment": null,
+    "installed_sha256": "123b66d6701c7c0587d0a615a2394caee52e62745b3fd31176381ea64aaa794a",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "cirq",
+    "dest": "cirq",
+    "path": "skills/cirq",
+    "local_adjustment": null,
+    "installed_sha256": "6ab4c57fd133d21013ac0a8cfdbb2235dcc461d6fc82445693ea475c3d5d6bc1",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "citation-management",
+    "dest": "citation-management",
+    "path": "skills/citation-management",
+    "local_adjustment": null,
+    "installed_sha256": "dc79fe1e8438dcf598040615d5323360c6a7ed0b868fc3ffc82512c871a1e3ff",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "clinical-decision-support",
+    "dest": "clinical-decision-support",
+    "path": "skills/clinical-decision-support",
+    "local_adjustment": null,
+    "installed_sha256": "05645e4bc5c73a613ddaeba5bea616739cc0cd71c789c869d97cdfcd8994e072",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "clinical-reports",
+    "dest": "clinical-reports",
+    "path": "skills/clinical-reports",
+    "local_adjustment": null,
+    "installed_sha256": "0d7c821b7857a4a761805e1a8263920a37f181658f77f1397755df0e14125022",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "cobrapy",
+    "dest": "cobrapy",
+    "path": "skills/cobrapy",
+    "local_adjustment": null,
+    "installed_sha256": "b11365507e183d8e153dd415df3a85a00f34b068bcf8edbad28c0580253564db",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "consciousness-council",
+    "dest": "consciousness-council",
+    "path": "skills/consciousness-council",
+    "local_adjustment": null,
+    "installed_sha256": "84b5eb07e5459cc110d7d6f63be48a7a01d374ec618da8e293a88b1d037c0c8c",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "dask",
+    "dest": "dask",
+    "path": "skills/dask",
+    "local_adjustment": null,
+    "installed_sha256": "3b563a98f4cb42858bb1cc49832a3fa1ff9483d929af57ebe629473538e5a041",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "database-lookup",
+    "dest": "database-lookup",
+    "path": "skills/database-lookup",
+    "local_adjustment": null,
+    "installed_sha256": "ead247f623212ca1560486d863a2d0a8c0555d8d20b975d55053eeb4ed043d37",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "datalad",
+    "dest": "datalad",
+    "path": "skills/datalad",
+    "local_adjustment": null,
+    "installed_sha256": "bb902427db0c501db4187aafd3433eea67fa1071348cf07adcea2558ed49debb",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "datamol",
+    "dest": "datamol",
+    "path": "skills/datamol",
+    "local_adjustment": null,
+    "installed_sha256": "3a0d725456f37c650595a1bdf0cd104936acc5e2bf4146be6829d3fcd4ea6c59",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "deepchem",
+    "dest": "deepchem",
+    "path": "skills/deepchem",
+    "local_adjustment": null,
+    "installed_sha256": "2965735ee473cf70d63c6170f1c8867bd533539809d4535c162acacc07d0b17d",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "deepspot-m",
+    "dest": "deepspot-m",
+    "path": "skills/deepspot-m",
+    "local_adjustment": null,
+    "installed_sha256": "a917434c523e136ddc1ce45b54acbef8c28398dd293314f72faa278431e67418",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "deeptools",
+    "dest": "deeptools",
+    "path": "skills/deeptools",
+    "local_adjustment": null,
+    "installed_sha256": "f09f32bad2d0c54f4a422cb7bcca7703466e653544b2b6e77a7492e6f29ccf8b",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "depmap",
+    "dest": "depmap",
+    "path": "skills/depmap",
+    "local_adjustment": null,
+    "installed_sha256": "893eb02a2dc8a77e61260dfb74b2acdf6c85e08f33028329d73657a23d398586",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "dhdna-profiler",
+    "dest": "dhdna-profiler",
+    "path": "skills/dhdna-profiler",
+    "local_adjustment": null,
+    "installed_sha256": "55cbc0e142ec3e6e6427c601391aeb38b8de6a83897082f46154f5c8273ccf50",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "diffdock",
+    "dest": "diffdock",
+    "path": "skills/diffdock",
+    "local_adjustment": null,
+    "installed_sha256": "5fafc5d9f53fa35a47c498f1cf3bad20fbee7404f248226e76e62bb327749912",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "dnanexus-integration",
+    "dest": "dnanexus-integration",
+    "path": "skills/dnanexus-integration",
+    "local_adjustment": null,
+    "installed_sha256": "e8fcca26f5558e04256a2253c002cc8c8c024c06614fbd7d6e0161e53c5aa519",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "esm",
+    "dest": "esm",
+    "path": "skills/esm",
+    "local_adjustment": null,
+    "installed_sha256": "49da3c6f5c81359d48b7c0b4416a212e7106f777b4c7174b2b42ce0c02bd95f6",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "etetoolkit",
+    "dest": "etetoolkit",
+    "path": "skills/etetoolkit",
+    "local_adjustment": null,
+    "installed_sha256": "da2e57c0e3677a4219d0629a2c1392470f20bc3ade2809c1f0334fd84441da08",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scientific-exa-search",
+    "dest": "scientific-exa-search",
+    "path": "skills/exa-search",
+    "local_adjustment": "Namespaced colliding skill name; Namespaced colliding directory",
+    "installed_sha256": "f501ad5c8e654aa5cc659b242fa4189e081e81ef4a2ad362e6c23ee8b3770392",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "experimental-design",
+    "dest": "experimental-design",
+    "path": "skills/experimental-design",
+    "local_adjustment": null,
+    "installed_sha256": "db2de0f3d29b7729776a91e923c9c83801298f5ad8e88fe44570045fbefcc248",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "exploratory-data-analysis",
+    "dest": "exploratory-data-analysis",
+    "path": "skills/exploratory-data-analysis",
+    "local_adjustment": null,
+    "installed_sha256": "955c4cefa49106dd03b55cbd62603bab2d2fb678e627dd452ba62040c7128484",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "fictiv",
+    "dest": "fictiv",
+    "path": "skills/fictiv",
+    "local_adjustment": null,
+    "installed_sha256": "c4f9b182d2f4664fe4b729832fff7fe98112b6823eaea3601633fa17112a6164",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "flowio",
+    "dest": "flowio",
+    "path": "skills/flowio",
+    "local_adjustment": null,
+    "installed_sha256": "24247696d4e9455f4b5509b7bee1856c251fa59181d80aa8de22d54ecd685b62",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "flowkit",
+    "dest": "flowkit",
+    "path": "skills/flowkit",
+    "local_adjustment": null,
+    "installed_sha256": "47c4dcb907dc6ec15daa4bdf1855e9c96860ef1a558507bef0084d79c2d1c57c",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "fluidsim",
+    "dest": "fluidsim",
+    "path": "skills/fluidsim",
+    "local_adjustment": null,
+    "installed_sha256": "7784bbf33615014f5965ff1db3d11bcc42e1bc4bb1f18f26208c62892b66df28",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "folklore-variant-evidence",
+    "dest": "folklore-variant-evidence",
+    "path": "skills/folklore-variant-evidence",
+    "local_adjustment": null,
+    "installed_sha256": "134b5ea684815b99c56fadf92a1cb42d37eaca4245515278e404b8876b7acfe0",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "generate-image",
+    "dest": "generate-image",
+    "path": "skills/generate-image",
+    "local_adjustment": null,
+    "installed_sha256": "42438be890c5ba875ddee1bbbf505e623433886a2b180f21b2012f72d038f92a",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "geniml",
+    "dest": "geniml",
+    "path": "skills/geniml",
+    "local_adjustment": null,
+    "installed_sha256": "7fb9ad57657b2fda7dbc3f234af5dab47915953c6678fbc066c9086c83eadd21",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "genomic-coordinates",
+    "dest": "genomic-coordinates",
+    "path": "skills/genomic-coordinates",
+    "local_adjustment": null,
+    "installed_sha256": "da3eee43dfee06ee632388ddda0c38bb0bc57ec33420cbf26b14ce86be3c28a0",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "genomic-intelligence",
+    "dest": "genomic-intelligence",
+    "path": "skills/genomic-intelligence",
+    "local_adjustment": null,
+    "installed_sha256": "cdb027004996d313d31b55f6b93306de45306a89b8a4a792e94c36cf2d1dea20",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "geomaster",
+    "dest": "geomaster",
+    "path": "skills/geomaster",
+    "local_adjustment": null,
+    "installed_sha256": "7b3b88f13f0094285372dfcc25a000fb7e74e5fc4b67c1b6999543fff3cadde8",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "geopandas",
+    "dest": "geopandas",
+    "path": "skills/geopandas",
+    "local_adjustment": null,
+    "installed_sha256": "c03a46f911535326802af476208a1e04de13ea385f4d5309b022ad931826b222",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "get-available-resources",
+    "dest": "get-available-resources",
+    "path": "skills/get-available-resources",
+    "local_adjustment": null,
+    "installed_sha256": "54044d598fce28fca2ce50e7895f44423b070493db2f9c96ff0445bee4d3689d",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "gget",
+    "dest": "gget",
+    "path": "skills/gget",
+    "local_adjustment": null,
+    "installed_sha256": "55027a94be8dde013fd17e563ba20ccba92b7131c29c21e9c83e54fbce2b348a",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "ginkgo-cloud-lab",
+    "dest": "ginkgo-cloud-lab",
+    "path": "skills/ginkgo-cloud-lab",
+    "local_adjustment": null,
+    "installed_sha256": "b3675d3ad36070fd598642fd2b58c36d3cfd09a08eef3f52d77629856e2e845b",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "glycoengineering",
+    "dest": "glycoengineering",
+    "path": "skills/glycoengineering",
+    "local_adjustment": null,
+    "installed_sha256": "b529bde5367cd84175f07db473361c9713a69af8f641cd740a10c0b660b32bc7",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "gtars",
+    "dest": "gtars",
+    "path": "skills/gtars",
+    "local_adjustment": null,
+    "installed_sha256": "c3586bcfa1e8d89a2abb23d74496d41e68daec5e7a8af6cefb9080a0ed469161",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "histolab",
+    "dest": "histolab",
+    "path": "skills/histolab",
+    "local_adjustment": null,
+    "installed_sha256": "af0c6c98951d02cab64e904504a8ab97b815a461e99744134da0e7dd57189331",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "hugging-science",
+    "dest": "hugging-science",
+    "path": "skills/hugging-science",
+    "local_adjustment": null,
+    "installed_sha256": "cff6c7e67d7f1925f008e11f5d0428f08391c35f4294d2c4c70350667b2decb2",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "hypogenic",
+    "dest": "hypogenic",
+    "path": "skills/hypogenic",
+    "local_adjustment": null,
+    "installed_sha256": "8ad3f55669b7c5e8bbf1c70111259f2782fc26ec39826b011d51799de08b9da5",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "hypothesis-generation",
+    "dest": "hypothesis-generation",
+    "path": "skills/hypothesis-generation",
+    "local_adjustment": null,
+    "installed_sha256": "5bccec0437d96d61821ec2095e7e32b61e8634cd8c02f11f42da953121e92719",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "imaging-data-commons",
+    "dest": "imaging-data-commons",
+    "path": "skills/imaging-data-commons",
+    "local_adjustment": null,
+    "installed_sha256": "8dd250a80dc6959fcebc9cbae8049b25a83be31647c597f17a9e674c4f2e3685",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "infographics",
+    "dest": "infographics",
+    "path": "skills/infographics",
+    "local_adjustment": null,
+    "installed_sha256": "dcd4ac5b46ac7f88ce8bd4ddf3efc8aa99a3f4bc6cc9ce2067c7d469758f0a8f",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "iso-standards-readiness",
+    "dest": "iso-standards-readiness",
+    "path": "skills/iso-standards-readiness",
+    "local_adjustment": null,
+    "installed_sha256": "0ffd95e86924a698fcd0c806e51f24e2fc500847697d8ff99b255af817e15259",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "lab-hardware-cad",
+    "dest": "lab-hardware-cad",
+    "path": "skills/lab-hardware-cad",
+    "local_adjustment": null,
+    "installed_sha256": "d3e9c67c3f08bfd7c6bb6c91d6ccc6621a72d2f47248965b4db4e1e296426b18",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "labarchive-integration",
+    "dest": "labarchive-integration",
+    "path": "skills/labarchive-integration",
+    "local_adjustment": null,
+    "installed_sha256": "dcc452099ec0c4db3bf7aa0417bfeb70b14d249650be316b67f4f495461d1c0a",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "lamindb",
+    "dest": "lamindb",
+    "path": "skills/lamindb",
+    "local_adjustment": null,
+    "installed_sha256": "00f1246a7f59b6ec11ca119687ccc3ff384547f40d44f2140f557ac3ddd01b35",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "latchbio-integration",
+    "dest": "latchbio-integration",
+    "path": "skills/latchbio-integration",
+    "local_adjustment": null,
+    "installed_sha256": "0f01df45ed4aecb81d672a5576820aee37c32864b4fe84bb4d049471a14d3e5c",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "latex-posters",
+    "dest": "latex-posters",
+    "path": "skills/latex-posters",
+    "local_adjustment": null,
+    "installed_sha256": "4350dc80280fea210f9682991103445e97c58504ddd14e7a26f3d84e2fee5837",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "liteparse",
+    "dest": "liteparse",
+    "path": "skills/liteparse",
+    "local_adjustment": null,
+    "installed_sha256": "02a789c7959670cb8898e329588a41d43fa7b270c768a70c22aed05031d042a4",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "literature-review",
+    "dest": "literature-review",
+    "path": "skills/literature-review",
+    "local_adjustment": null,
+    "installed_sha256": "16a9e85bcdcb9bb859e1646bf836e51b22900445ba2e367d8d75be05b5a5cba8",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "mageck",
+    "dest": "mageck",
+    "path": "skills/mageck",
+    "local_adjustment": null,
+    "installed_sha256": "562d7e2cb2febef14ab722bc29cd33983b523da287fb02b64eadf18702d4a9d1",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "marine-carbonate-chemistry",
+    "dest": "marine-carbonate-chemistry",
+    "path": "skills/marine-carbonate-chemistry",
+    "local_adjustment": null,
+    "installed_sha256": "03e58c7f9d7df75a323a6a8cf29ec18ae524cc308e5002c27fb5c65e1230f174",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "markdown-mermaid-writing",
+    "dest": "markdown-mermaid-writing",
+    "path": "skills/markdown-mermaid-writing",
+    "local_adjustment": null,
+    "installed_sha256": "c28a9d602fc5b55e9fa80cff493b045bb70d3cec47e2288e38051744337214c4",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "market-research-reports",
+    "dest": "market-research-reports",
+    "path": "skills/market-research-reports",
+    "local_adjustment": null,
+    "installed_sha256": "8fba27d8509bb95caade7ef856d83ddbd7e51303590f5f2db149b0270cf6fd40",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "markitdown",
+    "dest": "markitdown",
+    "path": "skills/markitdown",
+    "local_adjustment": null,
+    "installed_sha256": "8c165c18ceaddc9367dd74f65fd60e42c1c3de9d180828ae1ff09a001af42339",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "matchms",
+    "dest": "matchms",
+    "path": "skills/matchms",
+    "local_adjustment": null,
+    "installed_sha256": "1bde0e20f69f99dfa44800b9e908b0f90aa1256cfdb1d88a36ed0b8064c447ec",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "matlab",
+    "dest": "matlab",
+    "path": "skills/matlab",
+    "local_adjustment": null,
+    "installed_sha256": "91afa6ec0f0b3797f51da62b79d44d00a32fcdf3690b9505e5987982a8e6d0e2",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "matplotlib",
+    "dest": "matplotlib",
+    "path": "skills/matplotlib",
+    "local_adjustment": null,
+    "installed_sha256": "60b80aaa802e1a88db30729611789bf5ee92b3f2a7bb695502bac10dd255ee86",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "medchem",
+    "dest": "medchem",
+    "path": "skills/medchem",
+    "local_adjustment": null,
+    "installed_sha256": "07e44d0dc965278ab8e4fe9a325e89198bccd7e3ee26c1c454e788e1f4df9c2f",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "modal",
+    "dest": "scientific-modal",
+    "path": "skills/modal",
+    "local_adjustment": "Namespaced colliding directory",
+    "installed_sha256": "5da5d0a39db4ea5f429ffc40772bbce87e26f778fac363c42873ca6bb84fecd9",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "molecular-dynamics",
+    "dest": "molecular-dynamics",
+    "path": "skills/molecular-dynamics",
+    "local_adjustment": null,
+    "installed_sha256": "1efb31165ec1477b37c31394ba04b5fb280d44db8907afdf2a956e48487f1136",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "molfeat",
+    "dest": "molfeat",
+    "path": "skills/molfeat",
+    "local_adjustment": null,
+    "installed_sha256": "6bc3c336b58c8c7214042c5679cd793e655c15e703fa5d5ac34e09250d11df5e",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "ncats-arax",
+    "dest": "ncats-arax",
+    "path": "skills/ncats-arax",
+    "local_adjustment": null,
+    "installed_sha256": "f15f9f9a149a942ab1eaed0115879afa399249e261d7118a6d19e3da834ba74c",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "networkx",
+    "dest": "networkx",
+    "path": "skills/networkx",
+    "local_adjustment": null,
+    "installed_sha256": "981a213f33ddca21ec327ecee13e8ef8b85b7986274b84a10268ee73310df5be",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "neurokit2",
+    "dest": "neurokit2",
+    "path": "skills/neurokit2",
+    "local_adjustment": null,
+    "installed_sha256": "6f73a726bdea37723aa68bf7aaf896eb10322e875cbf3bc5ee96707643f1be35",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "neuropixels-analysis",
+    "dest": "neuropixels-analysis",
+    "path": "skills/neuropixels-analysis",
+    "local_adjustment": null,
+    "installed_sha256": "65985e85e9ac2206c92291446f543505b2b568bf1d622448e162ae6255e154dc",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "nextflow",
+    "dest": "nextflow",
+    "path": "skills/nextflow",
+    "local_adjustment": null,
+    "installed_sha256": "daa37795b3fe13ebf1c980acafb8401c4d1d7749dae013acc948f76c50c7379c",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "nmrglue",
+    "dest": "nmrglue",
+    "path": "skills/nmrglue",
+    "local_adjustment": null,
+    "installed_sha256": "358b5a5d64d20092e8631aeb8f4a06f11634a9fdeb8c594a93e6c1282b04b10b",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "nwb-conversion",
+    "dest": "nwb-conversion",
+    "path": "skills/nwb-conversion",
+    "local_adjustment": null,
+    "installed_sha256": "e2381f17db5e2b20354186a8a3c85b466afcf534cc1ae6181e87654ba5ed5fc6",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "omero-integration",
+    "dest": "omero-integration",
+    "path": "skills/omero-integration",
+    "local_adjustment": null,
+    "installed_sha256": "c75e73ba447bbf9530f6d3df4ba6224185f3c7728460b37938c8626dab664ad2",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "onekgpd",
+    "dest": "onekgpd",
+    "path": "skills/onekgpd",
+    "local_adjustment": null,
+    "installed_sha256": "6a7c0a90c42e899e818de866e843cf60d5434422fa69b910a7db9a06f25240e9",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "ontology-term-resolution",
+    "dest": "ontology-term-resolution",
+    "path": "skills/ontology-term-resolution",
+    "local_adjustment": null,
+    "installed_sha256": "db310515a230a47023169be207f654458789377c98b30fa593ee420738e4eefb",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "open-notebook",
+    "dest": "open-notebook",
+    "path": "skills/open-notebook",
+    "local_adjustment": null,
+    "installed_sha256": "39f3bb01946218b53c02e3aedde025e6f8b786307e5ba0c4698c5aed02f9fdd6",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "openpiv",
+    "dest": "openpiv",
+    "path": "skills/openpiv",
+    "local_adjustment": null,
+    "installed_sha256": "dc9aeeb18ef4b4832b9405c342ce40abbb09bc8162e35f2c659dd5814b07369a",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "opentrons-integration",
+    "dest": "opentrons-integration",
+    "path": "skills/opentrons-integration",
+    "local_adjustment": null,
+    "installed_sha256": "3600fece96f89e7cedc23d13e48ce7eb25a90698d7ae3d8bae65035d89f392ff",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "optimize-for-gpu",
+    "dest": "optimize-for-gpu",
+    "path": "skills/optimize-for-gpu",
+    "local_adjustment": null,
+    "installed_sha256": "e31bdb10b8ea66e5ec438583755999b66b9afab90f2583e1d500b8457ef28054",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pacsomatic",
+    "dest": "pacsomatic",
+    "path": "skills/pacsomatic",
+    "local_adjustment": null,
+    "installed_sha256": "5425319387beb29684ae5148cba33bd3a6c4306651ba574d47c76a8dc390d45d",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "paper-lookup",
+    "dest": "paper-lookup",
+    "path": "skills/paper-lookup",
+    "local_adjustment": null,
+    "installed_sha256": "fac99456ad404ff9a0d3043709b956b5d6383838ae8e8394f274a5693d8bd294",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "paperclip",
+    "dest": "paperclip",
+    "path": "skills/paperclip",
+    "local_adjustment": null,
+    "installed_sha256": "4f6fc05346aefdf5685b11d6d34fbe5b9782fc5156d69702c00dd8c71bf63473",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "paperzilla",
+    "dest": "paperzilla",
+    "path": "skills/paperzilla",
+    "local_adjustment": null,
+    "installed_sha256": "f1b5feb3c76ce064803e5d44757f0fc468bf670499015b9c6a9d487fca699771",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "parallel-web",
+    "dest": "parallel-web",
+    "path": "skills/parallel-web",
+    "local_adjustment": null,
+    "installed_sha256": "04b4873674998c4fb47de017397e753d69049609135efed43a82572b9002f52c",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pathml",
+    "dest": "pathml",
+    "path": "skills/pathml",
+    "local_adjustment": null,
+    "installed_sha256": "654cef910bd567689b854eab52176628f39184d7cca7a6bf405343f337e58538",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pathogen-variant-surveillance",
+    "dest": "pathogen-variant-surveillance",
+    "path": "skills/pathogen-variant-surveillance",
+    "local_adjustment": null,
+    "installed_sha256": "95510f890a47ab2e2275832fe60e725eca34e5318dcde88b0940d9362b3ab590",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pathway-enrichment",
+    "dest": "pathway-enrichment",
+    "path": "skills/pathway-enrichment",
+    "local_adjustment": null,
+    "installed_sha256": "82783d8ba63b6b03646492ee75afcdf591903a213decf7e7c9d844eb517acd78",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "peer-review",
+    "dest": "peer-review",
+    "path": "skills/peer-review",
+    "local_adjustment": null,
+    "installed_sha256": "a042ccdc76d3399431b9a6c4cd4f98968eab964b1c14baeea4d9e73de82c7d19",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pennylane",
+    "dest": "pennylane",
+    "path": "skills/pennylane",
+    "local_adjustment": null,
+    "installed_sha256": "7908ee374ed9bef310bd7071a175d97e0428cec184cce3e36db9fe3ae8e77c52",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "phylogenetics",
+    "dest": "phylogenetics",
+    "path": "skills/phylogenetics",
+    "local_adjustment": null,
+    "installed_sha256": "eef2354a8fe6c51c2ad8a506e512326553bda52c731952598adef677ae2d67d5",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pi-agent",
+    "dest": "pi-agent",
+    "path": "skills/pi-agent",
+    "local_adjustment": null,
+    "installed_sha256": "ef84742b6e491b3f65941dbb19fdd508b0aada3b87d95aa28b0f66a111f7c748",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pkpd-modeling",
+    "dest": "pkpd-modeling",
+    "path": "skills/pkpd-modeling",
+    "local_adjustment": null,
+    "installed_sha256": "fc58aed600d0fe9de911176cb0f2a43e8df6bbae8c2260be6f8abade133a2837",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "polars",
+    "dest": "polars",
+    "path": "skills/polars",
+    "local_adjustment": null,
+    "installed_sha256": "05d64a001190b516bc922bac616483c3109a6d29c3e9950e3e2d6c31b9415e79",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "polars-bio",
+    "dest": "polars-bio",
+    "path": "skills/polars-bio",
+    "local_adjustment": null,
+    "installed_sha256": "b9dbf93b5d8dbaa3de4541449b828cd6199625c54956e8598f7552eefc30116f",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pptx-posters",
+    "dest": "pptx-posters",
+    "path": "skills/pptx-posters",
+    "local_adjustment": null,
+    "installed_sha256": "bb4923ec520ac5175f837e75c8b600344cc1eb71490b1fa9c809ac65e64f1fb9",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "primekg",
+    "dest": "primekg",
+    "path": "skills/primekg",
+    "local_adjustment": null,
+    "installed_sha256": "b20698944fa51b287a13e7dc22ac033b83836b73614a21cff725ad7d6d807226",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "primer-design",
+    "dest": "primer-design",
+    "path": "skills/primer-design",
+    "local_adjustment": null,
+    "installed_sha256": "ea8bed0aa340a5f6538c206bb3d9fe503da6759e68a944a2bce564fa115d25e4",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "protocolsio-integration",
+    "dest": "protocolsio-integration",
+    "path": "skills/protocolsio-integration",
+    "local_adjustment": null,
+    "installed_sha256": "4439249ba8cd35a8507463f8be84db511abc23daa00be3f892c47d847d2aeda5",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pufferlib",
+    "dest": "pufferlib",
+    "path": "skills/pufferlib",
+    "local_adjustment": null,
+    "installed_sha256": "031975c6abaabd8237c18b6472886f4a718c509da70fc6ebca06455f8a002fa7",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pybamm",
+    "dest": "pybamm",
+    "path": "skills/pybamm",
+    "local_adjustment": null,
+    "installed_sha256": "9d6f375f4d9def40072ea734f07e1a48c60a1cd906231cab1a4189a75499a1a4",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pycalphad",
+    "dest": "pycalphad",
+    "path": "skills/pycalphad",
+    "local_adjustment": null,
+    "installed_sha256": "7748a9413e22566316893d882596b5c2a321e9e03de93e6097c59a003e899a24",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pydeseq2",
+    "dest": "pydeseq2",
+    "path": "skills/pydeseq2",
+    "local_adjustment": null,
+    "installed_sha256": "f06a9f5ece540c05bd8a8208bb3970d000b13cb1032abc9488cfbfe6106cd843",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pydicom",
+    "dest": "pydicom",
+    "path": "skills/pydicom",
+    "local_adjustment": null,
+    "installed_sha256": "e42c35688a3dc7e0faaf1d1e88c8883eabc60ad291d348bfe5aee89a64c95b01",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pyhealth",
+    "dest": "pyhealth",
+    "path": "skills/pyhealth",
+    "local_adjustment": null,
+    "installed_sha256": "ec4de54618b71a4f8cfeb086d131c610127784a6839d842a67b3c1e87b66e161",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pylabrobot",
+    "dest": "pylabrobot",
+    "path": "skills/pylabrobot",
+    "local_adjustment": null,
+    "installed_sha256": "b2aab8871006d84e53621fc0f4886d0fd0c671007d112569e444e0a56a564d76",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pymatgen",
+    "dest": "pymatgen",
+    "path": "skills/pymatgen",
+    "local_adjustment": null,
+    "installed_sha256": "4a106d7682cd9881765700d534cb419458ba407935a59168547da1ae6ea4b6b1",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pymc",
+    "dest": "pymc",
+    "path": "skills/pymc",
+    "local_adjustment": null,
+    "installed_sha256": "77d29ba7adf73d822329eab576d15a748811633a60bca88f5e93954793b3ea8a",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pymoo",
+    "dest": "pymoo",
+    "path": "skills/pymoo",
+    "local_adjustment": null,
+    "installed_sha256": "942573e5b8099717487b45cf84798348fb2128516791dcafe2d76aa1bdfed117",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pyopenms",
+    "dest": "pyopenms",
+    "path": "skills/pyopenms",
+    "local_adjustment": null,
+    "installed_sha256": "020e7392adbb000aaab4968ae9a803ca4bd97818ca35e9eebd3abc222766a48f",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pysam",
+    "dest": "pysam",
+    "path": "skills/pysam",
+    "local_adjustment": null,
+    "installed_sha256": "afc275bbeb084553cd6507c4ffee848c46bef94dcd24c3b8a58d8b14d021ea09",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pytdc",
+    "dest": "pytdc",
+    "path": "skills/pytdc",
+    "local_adjustment": null,
+    "installed_sha256": "b7df3f50c1c618a47a81e994b2863ddd8adf695e795aa495c3a8fef5e78a0493",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scientific-pytorch-lightning",
+    "dest": "scientific-pytorch-lightning",
+    "path": "skills/pytorch-lightning",
+    "local_adjustment": "Namespaced colliding skill name; Namespaced colliding directory",
+    "installed_sha256": "9ab16812b7ad3cf3174d3c76eb74ba47f7bffe833fe94186a8d0546b29739877",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "pyzotero",
+    "dest": "pyzotero",
+    "path": "skills/pyzotero",
+    "local_adjustment": null,
+    "installed_sha256": "82dec36c7294674f33d9b6003e523d1dc4da33ed1c7427dc4e53731119fc5f74",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "qiime2-amplicon",
+    "dest": "qiime2-amplicon",
+    "path": "skills/qiime2-amplicon",
+    "local_adjustment": null,
+    "installed_sha256": "605ae0581620f654ca9e12122a2bdb1d62a813841c5fea61b0eacb2031377cf7",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "qiskit",
+    "dest": "qiskit",
+    "path": "skills/qiskit",
+    "local_adjustment": null,
+    "installed_sha256": "538e5db262e7c237cff2bac191480f81688b8679167740af7405fcda1340511e",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "qutip",
+    "dest": "qutip",
+    "path": "skills/qutip",
+    "local_adjustment": null,
+    "installed_sha256": "6b93a95eb586147b2f1639f7e669dece3182ab4ddd70b1200291073cfd533902",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "rdkit",
+    "dest": "rdkit",
+    "path": "skills/rdkit",
+    "local_adjustment": null,
+    "installed_sha256": "9f32d5d229bc1a5bac3e57de5fb87895cdb85dcc99132c57373905db0e1a941e",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "relion",
+    "dest": "relion",
+    "path": "skills/relion",
+    "local_adjustment": null,
+    "installed_sha256": "3f80369ef73ccb8c20e2e49ad2b9bd71da3ffa4a819c035691ca4a5b26cb8399",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "relsa-severity-assessment",
+    "dest": "relsa-severity-assessment",
+    "path": "skills/relsa-severity-assessment",
+    "local_adjustment": null,
+    "installed_sha256": "10ee1a904565f5e9c9d432b3af136db42927d0811f07f646355600fec6633f8a",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "research-grants",
+    "dest": "research-grants",
+    "path": "skills/research-grants",
+    "local_adjustment": null,
+    "installed_sha256": "3ca7ea8075bbe8008389660cc4a5769d66ac9ec638f3f61a955a5d7b20aeba85",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "research-lookup",
+    "dest": "research-lookup",
+    "path": "skills/research-lookup",
+    "local_adjustment": null,
+    "installed_sha256": "8da1618350bf3434e4569a180a15b7241a50118ee9b79bccc514fa1bf3b4a102",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "rowan",
+    "dest": "rowan",
+    "path": "skills/rowan",
+    "local_adjustment": null,
+    "installed_sha256": "d631f00ae0f9325aa58912bb571b7eb43bc42c553498e4c97f4d65a1683c8599",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scanpy",
+    "dest": "scanpy",
+    "path": "skills/scanpy",
+    "local_adjustment": null,
+    "installed_sha256": "4a59f87933a1e9ed49eac603719af1b0c606dd99050fe59ffa1c1bf807900cb8",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scholar-evaluation",
+    "dest": "scholar-evaluation",
+    "path": "skills/scholar-evaluation",
+    "local_adjustment": null,
+    "installed_sha256": "9abc66a9ba13f6cf0f61614ddfff17822b5be2cc7118f52ef2631323dac8c94e",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scientific-brainstorming",
+    "dest": "scientific-brainstorming",
+    "path": "skills/scientific-brainstorming",
+    "local_adjustment": null,
+    "installed_sha256": "06f73b71556356a7f488c369b9445d7943543a3f14d159b2168fd3f621d6f8a9",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scientific-critical-thinking",
+    "dest": "scientific-critical-thinking",
+    "path": "skills/scientific-critical-thinking",
+    "local_adjustment": null,
+    "installed_sha256": "563af70571b7dcd6a96bf2e303bedfdcba623b4e9f082d58f04aacbc961fdae4",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scientific-schematics",
+    "dest": "scientific-schematics",
+    "path": "skills/scientific-schematics",
+    "local_adjustment": null,
+    "installed_sha256": "e15d761ef88013c98fd5b19cc144aba7336e20dbadf340db17bd1ba2227d1d69",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scientific-slides",
+    "dest": "scientific-slides",
+    "path": "skills/scientific-slides",
+    "local_adjustment": null,
+    "installed_sha256": "b1d34b81d30789f561bd4ee3ddb373c9fb84bed25086794bebd842af46afbad6",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scientific-visualization",
+    "dest": "scientific-visualization",
+    "path": "skills/scientific-visualization",
+    "local_adjustment": null,
+    "installed_sha256": "8cbde7cdc10d959cf72cfd08335cc8ce996247eee6ebdb900eb64a4cb0ff34a3",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scientific-writing",
+    "dest": "scientific-writing",
+    "path": "skills/scientific-writing",
+    "local_adjustment": null,
+    "installed_sha256": "511a2096bebecd8cf0f8212b9d262d37154ae1ba566eb385d93ac968682edbd1",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scikit-bio",
+    "dest": "scikit-bio",
+    "path": "skills/scikit-bio",
+    "local_adjustment": null,
+    "installed_sha256": "4a7a5760adadf32782dc4694028371df13b25472ff8ffe4cef2b2fc564226f6c",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scikit-learn",
+    "dest": "scikit-learn",
+    "path": "skills/scikit-learn",
+    "local_adjustment": null,
+    "installed_sha256": "a1765797d072ab40094522abe68fb04505d0881f66b7dfceeb8582422dbe488d",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scikit-survival",
+    "dest": "scikit-survival",
+    "path": "skills/scikit-survival",
+    "local_adjustment": null,
+    "installed_sha256": "8f99860440f23312d9803d3ac65ae9eb65274597d59499f1021d59378adef2fb",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scvelo",
+    "dest": "scvelo",
+    "path": "skills/scvelo",
+    "local_adjustment": null,
+    "installed_sha256": "c43258bccdbaa5772fd1aeac8d12d6107dd9c9b19c6a3a81fde7d421c0d2609e",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "scvi-tools",
+    "dest": "scvi-tools",
+    "path": "skills/scvi-tools",
+    "local_adjustment": null,
+    "installed_sha256": "b22633470d40ddaf31451fbbf811941fc89c3174c404ca359f25378691267e73",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "seaborn",
+    "dest": "seaborn",
+    "path": "skills/seaborn",
+    "local_adjustment": null,
+    "installed_sha256": "d1500d1e3d9db1db4c72cd272861378d1b98b0b5a5a98e8a3fca5a45bc0c6b2e",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "shap",
+    "dest": "shap",
+    "path": "skills/shap",
+    "local_adjustment": null,
+    "installed_sha256": "9c395662e608accd60acb62158f1d25299b12ec0e40f9f94b70a46ec527d52c1",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "simpy",
+    "dest": "simpy",
+    "path": "skills/simpy",
+    "local_adjustment": null,
+    "installed_sha256": "027244a3587e70c3e2f1aed4bfb5d737cb24fdc6b2ad276302ed81c02e38a7fc",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "stable-baselines3",
+    "dest": "stable-baselines3",
+    "path": "skills/stable-baselines3",
+    "local_adjustment": null,
+    "installed_sha256": "8383ae480e27163b9dbe1d9af822e05f0e85dd05b5bab1f6444588d57f569837",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "statistical-analysis",
+    "dest": "statistical-analysis",
+    "path": "skills/statistical-analysis",
+    "local_adjustment": null,
+    "installed_sha256": "e112848726b3713267cac65e4e2c15491a0a26ee1ed628db01195f7e43f97997",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "statistical-power",
+    "dest": "statistical-power",
+    "path": "skills/statistical-power",
+    "local_adjustment": null,
+    "installed_sha256": "a969660eafdc3504ac36e49bd7ded00e18b00fe5cef5699940d5d8281e24dd3d",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "statsmodels",
+    "dest": "statsmodels",
+    "path": "skills/statsmodels",
+    "local_adjustment": null,
+    "installed_sha256": "9e6c034bb4acbf0972fda18892d2feea907885ac5ad7194d220182d8810295a3",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "sympy",
+    "dest": "sympy",
+    "path": "skills/sympy",
+    "local_adjustment": null,
+    "installed_sha256": "bb97087bdddccc845401737ddc7f7a8da1c14ced5e8d40da01271c991ac46e23",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "tamarind",
+    "dest": "tamarind",
+    "path": "skills/tamarind",
+    "local_adjustment": null,
+    "installed_sha256": "aa9bb0aa10acefa52621acd9ba06604997ed2f3d20533359f47d4b24dfdc9494",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "tellurium",
+    "dest": "tellurium",
+    "path": "skills/tellurium",
+    "local_adjustment": null,
+    "installed_sha256": "69faa97aa45e7ad46515acd3e6497b044b7b44624ffd28c74fb40d97c74513a7",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "tiledbvcf",
+    "dest": "tiledbvcf",
+    "path": "skills/tiledbvcf",
+    "local_adjustment": null,
+    "installed_sha256": "38e55a6962e14637e82f60be8e53e6d87c78f1a7874b9f832f442a038942f7d5",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "timesfm-forecasting",
+    "dest": "timesfm-forecasting",
+    "path": "skills/timesfm-forecasting",
+    "local_adjustment": null,
+    "installed_sha256": "6f785fe73b133e9af7720fa46cf9013645198950155624889ef611b7b0dc74b8",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "torch-geometric",
+    "dest": "torch-geometric",
+    "path": "skills/torch-geometric",
+    "local_adjustment": null,
+    "installed_sha256": "89805e17cdbc64ed01426548442b3aa1bda8bcfdd4f9528f5c8dd6e0ea813c96",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "torchdrug",
+    "dest": "torchdrug",
+    "path": "skills/torchdrug",
+    "local_adjustment": null,
+    "installed_sha256": "03538274e00aad262d159ca5ebed55fe6519d605171569feff44afeb781088fd",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "transformers",
+    "dest": "transformers",
+    "path": "skills/transformers",
+    "local_adjustment": null,
+    "installed_sha256": "584d1c35d513f87616df9bcf7ddc8c48ab38cfbfad18d55c8481578d1c0d6f1a",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "treatment-plans",
+    "dest": "treatment-plans",
+    "path": "skills/treatment-plans",
+    "local_adjustment": null,
+    "installed_sha256": "ebb509854e12d016475ee6d45834a2a72c16815d1b9d940a9d156e7f024cbed6",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "umap-learn",
+    "dest": "umap-learn",
+    "path": "skills/umap-learn",
+    "local_adjustment": null,
+    "installed_sha256": "0cfef32ae0e1d52eec6513bafc0ab4387cf38e43121fba715762b2b2c11b6930",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "uncertainty-and-units",
+    "dest": "uncertainty-and-units",
+    "path": "skills/uncertainty-and-units",
+    "local_adjustment": null,
+    "installed_sha256": "caaafa079a4eaac6012717bcf705dec0417b5434f5dbd1af934a3a36ad375722",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "usfiscaldata",
+    "dest": "usfiscaldata",
+    "path": "skills/usfiscaldata",
+    "local_adjustment": null,
+    "installed_sha256": "7cdcb756489ae8e94a73df1eebfb9abef554e912af6559ebd28dffa021ab63d5",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "vaex",
+    "dest": "vaex",
+    "path": "skills/vaex",
+    "local_adjustment": null,
+    "installed_sha256": "a8ab5bcb0ab9c8d372b987e584b5c589a15b1e2b2f73457546d2888988d40b4f",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "venue-templates",
+    "dest": "venue-templates",
+    "path": "skills/venue-templates",
+    "local_adjustment": null,
+    "installed_sha256": "8607993327f451cc6b9d7ca7502c0e7d5f5060954fec12e2ea779d96841e78b5",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "waypoint-bio",
+    "dest": "waypoint-bio",
+    "path": "skills/waypoint-bio",
+    "local_adjustment": null,
+    "installed_sha256": "132d1f33d5d99bd6288a4cb432b277fcbc0f8bc4315e333dcecb840e7adc87a5",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "what-if-oracle",
+    "dest": "what-if-oracle",
+    "path": "skills/what-if-oracle",
+    "local_adjustment": null,
+    "installed_sha256": "509af149c8cfc8f17dd15608d6337eb8a7ff3f4056fcadeda573c5e527c68a97",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "source_commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "name": "zarr-python",
+    "dest": "zarr-python",
+    "path": "skills/zarr-python",
+    "local_adjustment": null,
+    "installed_sha256": "1edaabfc3fc618d4c3a16bd70c589c039a3cb3a26683f02bca0ccc140d3c9c4d",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  }
+]

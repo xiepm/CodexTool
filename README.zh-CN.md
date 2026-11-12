@@ -162,3 +162,7 @@ VALIDATION.md 记录独立临时目录模拟恢复、配置保留、重复运行
 - [MCP](https://learn.chatgpt.com/docs/extend/mcp)
 - [Plugins](https://learn.chatgpt.com/docs/plugins)
 - [本地插件市场](https://developers.openai.com/plugins/build/plugins)
+
+## skillshare 技能管理（2026-11-12）
+
+当前技能库位于 `skills/`。配置、跨电脑同步与恢复见 [SKILLS-SYNC.zh-CN.md](SKILLS-SYNC.zh-CN.md)。旧迁移包继续保留。

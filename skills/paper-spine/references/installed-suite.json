@@ -1,0 +1,12 @@
+{
+  "contract": "paperspine5.installed-suite-pointer",
+  "schema_version": "1.0",
+  "product_id": "paperspine5",
+  "build_id": "w7p-linux-x86_64-c96676d77b09",
+  "product_version": "0.4.0-alpha.3",
+  "archive_sha256": "0c43ebdede41684d3c4f88628513aea7398568984e1e1daaa072c89a74394052",
+  "platform": "linux-x86_64",
+  "updater_entry": "release/stable_updater.py",
+  "content_index_sha256": "b57044b2b8691745d90be8e5f3d1c4afed1cddb68197cfa7fb9d166a27c400f3",
+  "suite_root": "/home/xpm/.paperspine5/profiles/default/.paperspine5-lifecycle/installs/w7p-linux-x86_64-c96676d77b09"
+}
